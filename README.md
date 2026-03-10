@@ -57,6 +57,16 @@ This is an introductory boost—not a comprehensive training program. The goal i
 - Comparing conditions
 - Integrative project work
 
+#### Week 1 Notebooks
+
+| Day | Topic | Notebook |
+|-----|-------|----------|
+| Day 1 | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
+| Day 2 | Plotting & Data Operations | [day2_visualization_pandas.ipynb](week1/day2_visualization_pandas.ipynb) |
+| Day 3 | Statistics & Hypothesis Testing | [day3_statistics_outline.md](week1/day3_statistics_outline.md) (outline) |
+| Day 4 | Expression Data & Visualization | [day4_expression_pca_outline.md](week1/day4_expression_pca_outline.md) (outline) |
+| Day 5 | Differential Expression | [day5_differential_expression_outline.md](week1/day5_differential_expression_outline.md) (outline) |
+
 ### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
 **Led by:** Institute Groups
