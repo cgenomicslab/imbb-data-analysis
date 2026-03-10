@@ -5,7 +5,7 @@ A hands-on introduction to Python programming, data analysis, and computational 
 
 ---
 
-## 🎯 Course Philosophy
+## 🎯 Objectives
 
 **Data analysis is not for weirdos.** Every biologist should understand basic computational concepts and feel comfortable working with data. This course aims to:
 
@@ -20,7 +20,7 @@ This is an introductory boost—not a comprehensive training program. The goal i
 
 ## 📚 Course Structure
 
-### Week 1: Fundamentals (Led by CGLab & Collaborators)
+### Week 1: Fundamentals
 **Format:** 2-hour sessions daily, Monday-Friday  
 **Level:** Complete beginners welcome  
 **Approach:** Mix of executable code and hands-on exercises
@@ -57,21 +57,22 @@ This is an introductory boost—not a comprehensive training program. The goal i
 - Comparing conditions
 - Integrative project work
 
-### Week 2: Specialized Topics (Led by Institute Labs)
+### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
-**Leaders:** Various IMBB-FORTH groups
+**Led by:** Institute Groups
 
-#### Tentative Schedule
+#### Tentative Topics
 
-| Day | Topic | Led by |
-|-----|-------|--------|
-| Mon | Phylogenetics & Orthology/Paralogy | CGLab (Pavlopoulos group) |
-| Tue | Differential Gene Expression Analysis | Bioinformatics Unit |
-| Wed | ATAC-seq Analysis | Talianidis Lab |
-| Thu | Single-cell RNA-seq | Lavigne/Delidakis Labs |
-| Fri | Proteomics Analysis | Gkouridis Lab |
-| *Additional* | Differential RNA-binding Interactions | Ntini Lab |
-| *Additional* | Imaging Analysis | Pavlopoulos Lab |
+| Topic |
+|-------|
+| Phylogenetics & Orthology/Paralogy |
+| Differential Gene Expression Analysis |
+| ATAC-seq Analysis |
+| Single-cell RNA-seq |
+| Proteomics Analysis |
+| Neurophysiology Data Analysis |
+| Behavioral Data Analysis |
+| Imaging Analysis |
 
 *Note: Final schedule to be confirmed with contributing labs*
 
@@ -121,12 +122,12 @@ All materials are available in this repository:
 ## 📊 Datasets
 
 ### Dataset 1: Cretan Biodiversity
-A fun, biology-themed dataset featuring Cretan beaches with environmental and biodiversity measurements. Used for learning data manipulation and basic statistics.
+Cretan beaches' environmental and biodiversity measurements. Used for learning data manipulation and basic statistics.
 
 **Variables:** Beach characteristics, wildlife sightings (Kri-kri, sea turtles, monk seals), vegetation, tourism, weather
 
 ### Dataset 2: Simulated Bulk RNA-seq
-A small, manageable gene expression dataset with 3 conditions. Used for learning expression analysis and differential expression concepts.
+Gene expression dataset with 3 conditions. Used for learning expression analysis and differential expression concepts.
 
 **Design:** 100 genes × 9 samples (3 conditions, 3 replicates each)
 
@@ -153,7 +154,7 @@ By the end of Week 1, participants will be able to:
 
 ## 👥 Target Audience
 
-- IMBB-FORTH lab members (wet lab biologists, postdocs, PhD students)
+- IMBB-FORTH lab members (wet lab biologists, postdocs, PhD students, MSc students)
 - Researchers with **no programming experience**
 - Scientists interested in understanding computational approaches
 - Anyone who wants to **demystify data analysis**
@@ -162,19 +163,23 @@ By the end of Week 1, participants will be able to:
 
 ---
 
-## 🤝 Contributing Labs & Instructors
+## 🤝 Course Coordination & Contributing Groups
 
-### Week 1 Coordination
-- **CGLab (Pavlopoulos group):** Course design and Week 1 instruction
-- **Supporting labs:** Additional helpers and troubleshooting
+### Coordination
+- **CGLab (Pittis)**
+- **Bioinformatics Unit**
 
-### Week 2 Contributors
-- **Bioinformatics Unit:** Differential expression
-- **Talianidis Lab:** ATAC-seq
-- **Lavigne/Delidakis Labs:** Single-cell RNA-seq
-- **Ntini Lab:** RNA-binding protein interactions
-- **Gkouridis Lab:** Proteomics
-- **Pavlopoulos Lab:** Imaging analysis
+### Contributing Labs?
+- **CGLab (Pittis)**
+- **Bioinformatics Unit (Andronis)**
+- **Epigenetics, RNA Biology & Gene Regulation Lab (Ntini)**
+- **Genome Integrity & Gene Control Mechanisms Lab (Lavigne)**
+- **Biology of Stem Cells (Delidakis)**
+- **Chromatin & Cancer Epigenetics Lab (Talianidis)**
+- **Dynamic Structural Biology (Gkouridis)**
+- **Dendrites (Poirazi)**
+- **Systems Neuroscience Lab (Froudarakis)**
+- **Developmental Morphogenesis Lab (Pavlopoulos)**
 
 ---
 
@@ -205,9 +210,7 @@ By the end of Week 1, participants will be able to:
 
 ## 📧 Contact & Support
 
-**Course Coordinator:** CGLab, IMBB-FORTH  
-**Lab:** CGLab (Pavlopoulos group)
-**Location:** Nikolaou Plastira 100, GR-70013, Heraklion, Crete, Greece
+**Course Coordinator:** Alexandros Pittis (alexandros.pittis@gmail.com)
 
 **During the course:**
 - Ask questions during sessions
@@ -224,18 +227,6 @@ This is a living course that will improve with your input. After each session, w
 - Technical issues
 - Suggestions for improvement
 
-**Remember:** There are no stupid questions. We're all learning together!
+**Remember:** There are no stupid questions. We are trying to learn also.
 
 ---
-
-## 🌟 Acknowledgments
-
-This course was developed by the IMBB-FORTH community to promote computational literacy across the institute. Special thanks to all contributing labs and the Bioinformatics Unit for their support.
-
-**Institute of Molecular Biology and Biotechnology (IMBB)**  
-Foundation for Research and Technology - Hellas (FORTH)  
-Heraklion, Crete, Greece
-
----
-
-*"In 2026, every biologist should feel comfortable with code and data. Let's make that a reality."*
