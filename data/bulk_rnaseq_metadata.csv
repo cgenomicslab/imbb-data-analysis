@@ -1,0 +1,10 @@
+sample_name,condition,replicate
+Normal_Rep1,Normal,Rep1
+Normal_Rep2,Normal,Rep2
+Normal_Rep3,Normal,Rep3
+Treatment_A_Rep1,Treatment_A,Rep1
+Treatment_A_Rep2,Treatment_A,Rep2
+Treatment_A_Rep3,Treatment_A,Rep3
+Treatment_B_Rep1,Treatment_B,Rep1
+Treatment_B_Rep2,Treatment_B,Rep2
+Treatment_B_Rep3,Treatment_B,Rep3

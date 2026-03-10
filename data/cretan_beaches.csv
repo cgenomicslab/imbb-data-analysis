@@ -1,0 +1,26 @@
+beach_name,region,beach_type,beach_length_m,kri_kri_sightings,caretta_nests,monk_seal_sightings,lizard_species,cretan_palms,thyme_coverage_pct,sea_urchin_density,lionfish_spotted,water_temp_celsius,wind_speed_kmh,annual_rainfall_mm,avg_tourists_per_day,blue_flag
+Balos,Chania,Mixed,511,0,1,0,1,13,4,High,0,25.7,3.9,477,347,0
+Elafonissi,Chania,Mixed,692,1,1,0,2,5,11,Medium,0,25.6,7.8,327,376,1
+Preveli,Rethymnon,Sand,54,0,5,0,1,5,15,Low,0,26.6,12.3,519,62,0
+Vai,Lassithi,Mixed,267,0,4,2,3,8,25,High,0,24.0,3.5,656,289,1
+Matala,Heraklion,Sand,552,0,0,0,4,7,25,Medium,0,25.4,5.8,340,419,0
+Falassarna,Chania,Pebbles,447,0,1,0,1,3,20,High,0,23.4,10.9,527,226,0
+Kedrodasos,Chania,Mixed,442,1,2,0,1,7,38,Low,0,24.6,3.4,491,261,0
+Seitan Limania,Chania,Pebbles,256,0,2,0,2,4,35,Low,0,23.7,2.8,710,197,1
+Agia Pelagia,Heraklion,Sand,64,0,0,0,2,4,32,Low,0,24.2,12.3,746,389,0
+Stavros,Chania,Mixed,603,2,2,0,3,4,29,High,0,25.2,13.9,444,50,1
+Xerokambos,Lassithi,Sand,510,0,2,0,4,5,36,High,1,22.4,3.9,500,166,0
+Chrissi,Lassithi,Pebbles,740,0,3,1,2,3,22,Low,0,28.2,5.0,716,24,1
+Agiofarago,Heraklion,Sand,624,0,1,0,1,3,9,High,0,22.0,11.7,511,310,0
+Kokkini Ammos,Chania,Mixed,792,0,0,0,4,2,4,Low,0,21.6,8.6,760,74,1
+Voulisma,Lassithi,Mixed,290,0,2,0,4,7,35,Low,0,26.3,1.2,519,354,0
+Myrtos,Lassithi,Pebbles,613,0,2,0,1,2,33,Medium,0,25.6,2.4,539,336,0
+Glyka Nera,Chania,Sand,145,0,1,0,2,7,30,High,0,25.2,5.3,712,18,0
+Plakias,Rethymnon,Mixed,783,0,3,0,1,3,9,Low,1,25.3,9.9,696,353,0
+Triopetra,Rethymnon,Pebbles,534,0,2,1,4,4,18,Low,0,24.0,7.1,345,138,0
+Ierapetra,Lassithi,Mixed,456,0,3,0,5,3,31,High,0,22.2,5.2,334,145,0
+Almyros,Heraklion,Mixed,280,0,2,0,5,5,0,Medium,0,24.2,3.5,552,481,0
+Damnoni,Rethymnon,Sand,798,0,0,0,3,4,4,Medium,0,22.6,16.2,689,72,0
+Frangokastello,Chania,Mixed,704,0,2,0,1,4,3,Low,1,26.0,4.6,381,148,1
+Kolokytha,Heraklion,Sand,220,0,1,0,1,2,15,High,1,23.7,9.8,670,90,1
+Red Beach,Heraklion,Mixed,590,0,1,0,3,2,23,Medium,0,22.3,4.4,555,401,0
