@@ -7,14 +7,14 @@ A hands-on introduction to Python programming, data analysis, and computational 
 
 ## 🎯 Objectives
 
-**Data analysis is not for weirdos.** Every biologist should understand basic computational concepts and feel comfortable working with data. This course aims to:
+**Data analysis is for every scientist.** Every biologist should understand basic computational concepts and feel comfortable working with data. This course aims to:
 
-- **Democratize data analysis knowledge** across the institute
-- **Build confidence** in computational approaches, not just technical mastery
+- **Broaden data analysis understanding** across the institute
+- **Build confidence** in computational approaches
 - **Explain the logic** behind methods, not just how to run tools
-- **Create a cultural shift** where computational thinking is part of every researcher's toolkit
+- **Cultural shift** - thinking about the data is part of every researcher's approach
 
-This is an introductory boost—not a comprehensive training program. The goal is to get you started, familiarize you with code, and help you understand the concepts behind common analyses.
+This is an introductory boost — not a comprehensive training program. The goal is to get you started, familiarize you with code, and help you understand the concepts behind common analyses.
 
 ---
 
@@ -22,7 +22,7 @@ This is an introductory boost—not a comprehensive training program. The goal i
 
 ### Week 1: Fundamentals
 **Format:** 2-hour sessions daily, Monday-Friday  
-**Level:** Complete beginners welcome  
+**Level:** Complete beginners..  
 **Approach:** Mix of executable code and hands-on exercises
 
 #### Daily Schedule
@@ -103,7 +103,7 @@ This is an introductory boost—not a comprehensive training program. The goal i
    - Alternative: Institute JupyterHub (access to be provided)
 
 2. **Optional preparation:**
-   - Review basic Python syntax: [Python for beginners tutorial](https://github.com/kantale/python_lessons) (colleague's repo)
+   - Review basic Python syntax: [Python for beginners tutorial by Alexandros Kanterakis](https://github.com/kantale/python_lessons) (colleague's repo)
    - Test your setup with a simple Jupyter notebook
 
 ### Course Materials
@@ -164,7 +164,7 @@ By the end of Week 1, participants will be able to:
 
 ## 👥 Target Audience
 
-- IMBB-FORTH lab members (wet lab biologists, postdocs, PhD students, MSc students)
+- IMBB-FORTH lab members (postdocs, PhD students, MSc students, wet lab biologists)
 - Researchers with **no programming experience**
 - Scientists interested in understanding computational approaches
 - Anyone who wants to **demystify data analysis**
@@ -177,7 +177,6 @@ By the end of Week 1, participants will be able to:
 
 ### Coordination
 - **CGLab (Pittis)**
-- **Bioinformatics Unit**
 
 ### Contributing Labs?
 - **CGLab (Pittis)**
