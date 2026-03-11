@@ -10,14 +10,14 @@ Week 2 builds on Week 1 fundamentals by showcasing specialized analyses from dif
 ### Session Format
 - **Duration:** 2 hours per session
 - **Format:** Demo + hands-on practice with real/example data
-- **Level:** Assumes Week 1 knowledge
+- **Level:** Assumes (maybe) Week 1 knowledge
 - **Goal:** Exposure to different analysis types, not mastery
 
 ---
 
 ## Monday: Phylogenetics & Orthology/Paralogy
 
-**Led by:** CGLab (Pavlopoulos group)  
+**Led by:** CGLab (Pittis group)  
 **Time:** [TBD]
 
 ### Topics Covered
@@ -29,7 +29,6 @@ Week 2 builds on Week 1 fundamentals by showcasing specialized analyses from dif
 
 ### What You'll Learn
 - Read and interpret phylogenetic trees
-- Understand evolutionary distances
 - Identify orthologs and paralogs
 - Use basic phylogenetic tools
 
@@ -49,17 +48,13 @@ Week 2 builds on Week 1 fundamentals by showcasing specialized analyses from dif
 
 ### Topics Covered
 - In-depth differential expression (DE) analysis
-- Advanced statistical methods
-- Multiple testing correction
 - Batch effects and normalization
-- Gene set enrichment analysis (GSEA)
 - GO term enrichment (detailed)
 
 ### What You'll Learn
 - Run complete DE pipelines
 - Interpret DE results critically
 - Understand statistical assumptions
-- Perform pathway enrichment
 - Visualize results effectively
 
 ### Example Analysis
@@ -130,7 +125,7 @@ Week 2 builds on Week 1 fundamentals by showcasing specialized analyses from dif
 
 ## Friday: Proteomics Analysis
 
-**Led by:** Gkouridis Lab  
+**Led by:** Gouridis Lab  
 **Time:** [TBD]
 
 ### Topics Covered
@@ -244,7 +239,7 @@ After Week 2 sessions, participants are encouraged to:
 1. **Come prepared:** Have data organized and accessible
 2. **Know your question:** What do you want to analyze?
 3. **Start simple:** Don't try to do everything at once
-4. **Ask for help:** That's what we're here for!
+4. **Ask for help!**
 
 **Ideal Own-Data Questions:**
 - "I have RNA-seq data from 2 conditions, help me find DE genes"
@@ -281,47 +276,10 @@ After Week 2 sessions, participants are encouraged to:
 - [MSstats](https://www.bioconductor.org/packages/release/bioc/html/MSstats.html)
 - [Perseus software](https://maxquant.net/perseus/)
 
----
-
-## 👥 Lab Contributions
-
-We gratefully acknowledge the following labs for contributing their expertise:
-
-- **CGLab (Pavlopoulos group):** Course coordination, phylogenetics
-- **IMBB Bioinformatics Unit:** Differential expression deep-dive
-- **Talianidis Lab:** ATAC-seq and chromatin accessibility
-- **Lavigne/Delidakis Labs:** Single-cell RNA-seq
-- **Ntini Lab:** RNA-binding protein interactions
-- **Gkouridis Lab:** Proteomics analysis
-- **Pavlopoulos Lab:** Imaging analysis
 
 ---
 
 ## 📝 Notes
-
-### For Contributing Labs
-
-**If you're leading a session:**
-
-1. **Notify participants of any special requirements:**
-   - Additional software/packages
-   - Large dataset downloads
-   - Specific file formats
-
-2. **Provide materials in advance:**
-   - Jupyter notebooks
-   - Example datasets
-   - Installation instructions
-
-3. **Structure for accessibility:**
-   - Remember participants are beginners
-   - Explain concepts, not just commands
-   - Include interpretation, not just analysis
-
-4. **Share resources:**
-   - Links to papers/methods
-   - Recommended tutorials
-   - Documentation links
 
 ### For Participants
 
@@ -374,8 +332,4 @@ You won't become an expert in any single technique, but you'll gain:
 - Starting points for further learning
 - Connections to IMBB experts
 
-**Most importantly:** You'll see that computational approaches are accessible and valuable for your research!
-
----
-
-*"The best way to learn is to see how experts think about problems in different domains."*
+**Most importantly:** You'll think of how computational approaches can be valuable for your research..
