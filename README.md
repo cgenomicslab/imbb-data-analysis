@@ -22,7 +22,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ### Week 1: Fundamentals
 **Format:** 2-hour sessions daily, Monday-Friday  
-**Level:** Complete beginners..  
+**Level:** Complete beginners  
 **Approach:** Mix of executable code and hands-on exercises
 
 #### Daily Schedule
@@ -33,39 +33,39 @@ This is an introductory boost — not a comprehensive training program. The goal
 - Loops, conditionals, and simple functions
 - Understanding imports
 
-**Day 2: Plotting & Data Operations**
-- Seaborn visualization basics
-- Arrays and pandas DataFrames
-- Data filtering, selection, and groupby
-- Boolean indexing
+**Day 2: Plotting & Data Exploration**
+- Seaborn visualization with Cretan beaches data
+- Pandas DataFrames: filtering, selection, groupby
+- Correlation visualization (heatmaps)
+- Expression data preview
 
-**Day 3: Statistics & Hypothesis Testing**
-- Visualizing distributions
-- Parametric tests (t-test)
-- Non-parametric tests (Mann-Whitney U)
-- Permutation tests (understanding the logic)
+**Day 3: Statistics & P-value Logic**
+- Understanding p-values through permutation tests
+- T-test and Mann-Whitney U test
+- Correlation significance testing
+- Visualizing distributions and testing differences
 
-**Day 4: Expression Data & Visualization**
-- PCA: toy example and interpretation
-- Bulk RNA-seq data exploration
-- UMAP introduction (visualization only)
-- Interpreting dimensionality reduction plots
+**Day 4: Enrichment & Expression Analysis**
+- Enrichment logic with colored balls example
+- Hypergeometric and permutation tests
+- GO term enrichment
+- Differential expression and volcano plots
 
-**Day 5: Differential Expression**
-- Statistical basis of DE analysis
-- Marker genes concept
-- Comparing conditions
-- Integrative project work
+**Day 5: Dimensionality Reduction**
+- PCA on toy dataset and expression data
+- Variance explained and loadings interpretation
+- UMAP visualization
+- Integration: complete analysis workflow
 
 #### Week 1 Notebooks
 
 | Day | Topic | Notebook |
 |-----|-------|----------|
 | Day 1 | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
-| Day 2 | Plotting & Data Operations | [day2_visualization_pandas.ipynb](week1/day2_visualization_pandas.ipynb) |
-| Day 3 | Statistics & Hypothesis Testing | [day3_statistics_outline.md](week1/day3_statistics_outline.md) (outline) |
-| Day 4 | Expression Data & Visualization | [day4_expression_pca_outline.md](week1/day4_expression_pca_outline.md) (outline) |
-| Day 5 | Differential Expression | [day5_differential_expression_outline.md](week1/day5_differential_expression_outline.md) (outline) |
+| Day 2 | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
+| Day 3 | Statistics & P-value Logic | [day3_statistics_outline.md](week1/day3_statistics_outline.md) (outline) |
+| Day 4 | Enrichment & Expression | [day4_enrichment_expression_outline.md](week1/day4_enrichment_expression_outline.md) (outline) |
+| Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction_outline.md](week1/day5_dimensionality_reduction_outline.md) (outline) |
 
 ### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
@@ -119,7 +119,7 @@ All materials are available in this repository:
 ### Recommended Setup (Native Installation)
 - **Python 3.10+** via Anaconda or Miniconda
 - **VSCode** with Python and Jupyter extensions
-- **Required packages:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn
+- **Required packages:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap-learn
 
 ### Alternative Options
 - **Google Colab:** Browser-based, no installation needed
@@ -131,20 +131,40 @@ All materials are available in this repository:
 
 ## 📊 Datasets
 
-### Dataset 1: Cretan Biodiversity
-Cretan beaches' environmental and biodiversity measurements. Used for learning data manipulation and basic statistics.
+### Cretan Beaches Dataset
+Environmental and ecological data from 27 beaches across Crete and Gavdos. Used for data exploration, visualization, statistical testing, and correlation analysis.
 
-**Variables:** Beach characteristics, wildlife sightings (Kri-kri, sea turtles, monk seals), vegetation, tourism, weather
+**Variables:** Beach characteristics, compass direction, invasive species abundance, sea temperature, tourism, wind speed, rainfall, vegetation (phoenix palms, juniper)
 
-### Dataset 2: Simulated Bulk RNA-seq
-Gene expression dataset with 3 conditions. Used for learning expression analysis and differential expression concepts.
+**Applications:** 
+- Day 2: Plotting and data exploration
+- Day 3: Statistical hypothesis testing, permutation tests, correlation analysis
+
+### Colored Balls Dataset
+Toy enrichment example for teaching statistical logic.
+
+**Setup:** 100 balls (5 colors), subset of 15 balls with known composition
+
+**Applications:**
+- Day 4: Enrichment analysis, permutation tests, hypergeometric tests
+
+### Bulk RNA-seq Dataset
+Simulated gene expression data with realistic differential expression patterns.
 
 **Design:** 100 genes × 9 samples (3 conditions, 3 replicates each)
 
-### Dataset 3: Simulated Single-cell RNA-seq  
-Pre-processed single-cell data for visualization practice.
+**Applications:**
+- Day 2: Expression data preview and heatmaps
+- Day 4: Differential expression analysis, volcano plots
+- Day 5: PCA and dimensionality reduction
 
-**Design:** ~1000 cells, 500 genes, 3-4 cell types with clear markers
+### Single-cell RNA-seq Dataset (Optional)
+Pre-processed single-cell data for visualization demonstration.
+
+**Design:** 500 genes × 200 cells, 4 cell types with distinct markers
+
+**Applications:**
+- Day 5: UMAP visualization preview
 
 ---
 
@@ -153,12 +173,15 @@ Pre-processed single-cell data for visualization practice.
 By the end of Week 1, participants will be able to:
 
 1. **Write basic Python code** to manipulate and analyze data
-2. **Use pandas** to work with tabular biological data
-3. **Create visualizations** to explore and communicate results
-4. **Understand the statistical concepts** behind hypothesis testing
-5. **Interpret PCA and UMAP plots** from expression data
-6. **Grasp the logic of differential expression** analysis
-7. **Feel confident** to continue learning independently
+2. **Load and explore datasets** with pandas
+3. **Create informative visualizations** with seaborn
+4. **Understand p-value logic** through permutation tests
+5. **Apply statistical tests** (t-test, Mann-Whitney U, correlation)
+6. **Grasp enrichment analysis** concepts through concrete examples
+7. **Analyze gene expression data** and identify differential expression
+8. **Interpret dimensionality reduction** plots (PCA, UMAP)
+9. **Execute a complete analysis workflow** from data to interpretation
+10. **Feel confident** to continue learning independently
 
 ---
 
