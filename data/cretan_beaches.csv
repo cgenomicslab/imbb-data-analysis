@@ -1,28 +1,28 @@
 beach_name,region,compass_direction,beach_type,beach_length_m,phoenix_palms,juniper_density,lionfish_abundance,cornetfish_abundance,sea_temp_celsius,wind_speed_kmh,annual_rainfall_mm,avg_tourists_per_day
-Elafonissi,Chania,SW,sand,1200,45,7,3,4,23.2,22,500,4500
-Balos,Chania,NW,sand,500,25,3,2,3,25.8,30,480,2650
-Falasarna,Chania,NW,sand,3000,30,6,2,3,25.5,32,550,2250
-Vai,Lassithi,NE,sand,200,5000,2,7,9,26.8,35,440,1500
-Preveli,Rethymno,S,mixed,400,800,4,5,6,23.8,18,490,1150
-Matala,Heraklion,S,mixed,300,85,3,6,7,23.5,16,420,1150
-Agia Galini,Rethymno,S,mixed,600,120,4,5,7,23.9,18,460,750
-Plakias,Rethymno,S,mixed,1300,150,3,4,6,23.6,20,500,850
-Georgioupoli,Chania,N,sand,1000,35,5,2,3,27.1,22,560,600
-Stavros,Chania,N,sand,200,20,4,1,2,26.9,12,580,750
-Agia Pelagia,Heraklion,N,mixed,400,28,3,3,4,27.3,18,460,750
-Bali,Rethymno,N,mixed,250,18,2,3,4,26.8,10,470,900
-Panormos,Rethymno,N,sand,500,22,4,2,3,26.9,15,480,450
-Almyrida,Chania,N,sand,800,30,5,2,3,27.2,20,580,450
-Marathi,Chania,N,mixed,350,25,3,1,2,26.7,8,600,350
-Kalathas,Chania,N,mixed,300,20,3,2,3,26.5,15,600,350
-Seitan Limania,Chania,NE,pebble,100,0,1,3,5,25.2,14,580,300
-Kedrodasos,Chania,SW,sand,800,35,8,3,4,23.0,20,490,125
-Glyka Nera,Chania,S,pebble,150,60,1,4,5,22.8,10,420,125
+Elafonissi,Chania,SW,sand_lagoon,1200,45,7,3,4,27.5,22,500,4200
+Balos,Chania,NW,sand_lagoon,500,25,3,2,3,28.1,30,480,3800
+Falasarna,Chania,NW,sand,3000,30,6,2,3,25.5,32,550,2100
+Vai,Lassithi,NE,sand,200,5000,2,7,9,26.8,35,440,2600
+Preveli,Rethymno,S,mixed,400,800,4,5,6,23.8,18,490,650
+Matala,Heraklion,S,mixed,300,85,3,6,7,23.5,16,420,550
+Agia Galini,Rethymno,S,mixed,600,120,4,5,7,23.9,18,460,450
+Plakias,Rethymno,S,mixed,1300,150,3,4,6,23.6,20,500,500
+Georgioupoli,Chania,N,sand,1000,35,5,2,3,27.1,22,560,2400
+Stavros,Chania,N,sand,200,20,4,1,2,26.9,12,580,1700
+Agia Pelagia,Heraklion,N,mixed,400,28,3,3,4,27.3,18,460,1300
+Bali,Rethymno,N,mixed,250,18,2,3,4,26.8,10,470,850
+Panormos,Rethymno,N,sand,500,22,4,2,3,26.9,15,480,1500
+Almyrida,Chania,N,sand,800,30,5,2,3,27.2,20,580,1800
+Marathi,Chania,N,mixed,350,25,3,1,2,26.7,8,600,750
+Kalathas,Chania,N,mixed,300,20,3,2,3,26.5,15,600,700
+Seitan Limania,Chania,NE,pebble,100,0,1,3,5,25.2,14,580,320
+Kedrodasos,Chania,SW,sand,800,35,8,3,4,23.0,20,490,280
+Glyka Nera,Chania,S,pebble,150,60,1,4,5,22.8,10,420,110
 Marmara,Chania,S,pebble,120,75,1,4,6,22.5,12,440,60
-Frangokastello,Chania,S,mixed,700,90,4,4,6,23.7,18,480,500
-Paleochora,Chania,SW,mixed,1100,55,5,3,5,23.4,19,430,650
-Sougia,Chania,S,pebble,800,110,2,4,5,23.1,15,450,275
-Loutro,Chania,S,pebble,100,95,1,5,7,22.9,8,420,275
-Chania Beach,Chania,N,sand,2000,40,4,2,3,27.0,24,640,1750
-Ierapetra Beach,Lassithi,SE,mixed,1500,180,5,8,10,24.2,33,420,500
-Sarakiniko,Gavdos,S,sand,1500,0,7,4,5,22.3,16,380,200
+Frangokastello,Chania,S,mixed,700,90,4,4,6,23.7,18,480,480
+Paleochora,Chania,SW,mixed,1100,55,5,3,5,23.4,19,430,620
+Sougia,Chania,S,pebble,800,110,2,4,5,23.1,15,450,190
+Loutro,Chania,S,pebble,100,95,1,5,7,22.9,8,420,170
+Chania Beach,Chania,N,sand,2000,40,4,2,3,27.0,24,640,2800
+Ierapetra Beach,Lassithi,SE,mixed,1500,180,5,8,10,24.2,33,420,850
+Sarakiniko,Gavdos,S,sand,1500,0,7,4,5,22.3,16,380,210
