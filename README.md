@@ -34,9 +34,9 @@ This is an introductory boost — not a comprehensive training program. The goal
 - Understanding imports
 
 **Day 2: Plotting & Data Exploration**
-- Seaborn visualization with Cretan beaches data
+- Seaborn visualization
 - Pandas DataFrames: filtering, selection, groupby
-- Correlation visualization (heatmaps)
+- Correlation visualization
 - Expression data preview
 
 **Day 3: Statistics & P-value Logic**
@@ -46,16 +46,16 @@ This is an introductory boost — not a comprehensive training program. The goal
 - Visualizing distributions and testing differences
 
 **Day 4: Enrichment & Expression Analysis**
-- Enrichment logic with colored balls example
+- Enrichment logic
 - Hypergeometric and permutation tests
 - GO term enrichment
-- Differential expression and volcano plots
+- Differential expression
 
 **Day 5: Dimensionality Reduction**
-- PCA on toy dataset and expression data
+- PCA
 - Variance explained and loadings interpretation
 - UMAP visualization
-- Integration: complete analysis workflow
+- Integration
 
 #### Week 1 Notebooks
 
@@ -63,8 +63,8 @@ This is an introductory boost — not a comprehensive training program. The goal
 |-----|-------|----------|
 | Day 1 | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
 | Day 2 | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
-| Day 3 | Statistics & P-value Logic | [day3_statistics_outline.md](week1/day3_statistics_outline.md) (outline) |
-| Day 4 | Enrichment & Expression | [day4_enrichment_expression_outline.md](week1/day4_enrichment_expression_outline.md) (outline) |
+| Day 3 | Statistics & P-value | [day3_statistics_outline.md](week1/day3_statistics_outline.md) (outline) |
+| Day 4 | Enrichment | [day4_enrichment_expression_outline.md](week1/day4_enrichment_expression_outline.md) (outline) |
 | Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction_outline.md](week1/day5_dimensionality_reduction_outline.md) (outline) |
 
 ### Week 2: Specialized Topics
@@ -129,62 +129,6 @@ All materials are available in this repository:
 
 ---
 
-## 📊 Datasets
-
-### Cretan Beaches Dataset
-Environmental and ecological data from 27 beaches across Crete and Gavdos. Used for data exploration, visualization, statistical testing, and correlation analysis.
-
-**Variables:** Beach characteristics, compass direction, invasive species abundance, sea temperature, tourism, wind speed, rainfall, vegetation (phoenix palms, juniper)
-
-**Applications:** 
-- Day 2: Plotting and data exploration
-- Day 3: Statistical hypothesis testing, permutation tests, correlation analysis
-
-### Colored Balls Dataset
-Toy enrichment example for teaching statistical logic.
-
-**Setup:** 100 balls (5 colors), subset of 15 balls with known composition
-
-**Applications:**
-- Day 4: Enrichment analysis, permutation tests, hypergeometric tests
-
-### Bulk RNA-seq Dataset
-Simulated gene expression data with realistic differential expression patterns.
-
-**Design:** 100 genes × 9 samples (3 conditions, 3 replicates each)
-
-**Applications:**
-- Day 2: Expression data preview and heatmaps
-- Day 4: Differential expression analysis, volcano plots
-- Day 5: PCA and dimensionality reduction
-
-### Single-cell RNA-seq Dataset (Optional)
-Pre-processed single-cell data for visualization demonstration.
-
-**Design:** 500 genes × 200 cells, 4 cell types with distinct markers
-
-**Applications:**
-- Day 5: UMAP visualization preview
-
----
-
-## 🎓 Learning Objectives
-
-By the end of Week 1, participants will be able to:
-
-1. **Write basic Python code** to manipulate and analyze data
-2. **Load and explore datasets** with pandas
-3. **Create informative visualizations** with seaborn
-4. **Understand p-value logic** through permutation tests
-5. **Apply statistical tests** (t-test, Mann-Whitney U, correlation)
-6. **Grasp enrichment analysis** concepts through concrete examples
-7. **Analyze gene expression data** and identify differential expression
-8. **Interpret dimensionality reduction** plots (PCA, UMAP)
-9. **Execute a complete analysis workflow** from data to interpretation
-10. **Feel confident** to continue learning independently
-
----
-
 ## 👥 Target Audience
 
 - IMBB-FORTH lab members (postdocs, PhD students, MSc students, wet lab biologists)
@@ -202,13 +146,13 @@ By the end of Week 1, participants will be able to:
 - **CGLab (Pittis)**
 
 ### Contributing Labs?
-- **CGLab (Pittis)**
+- **Comparative Genomics Lab (Pittis)**
 - **Bioinformatics Unit (Andronis)**
 - **Epigenetics, RNA Biology & Gene Regulation Lab (Ntini)**
 - **Genome Integrity & Gene Control Mechanisms Lab (Lavigne)**
 - **Biology of Stem Cells (Delidakis)**
 - **Chromatin & Cancer Epigenetics Lab (Talianidis)**
-- **Dynamic Structural Biology (Gkouridis)**
+- **Dynamic Structural Biology (Gouridis)**
 - **Dendrites (Poirazi)**
 - **Systems Neuroscience Lab (Froudarakis)**
 - **Developmental Morphogenesis Lab (Pavlopoulos)**
