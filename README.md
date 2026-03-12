@@ -63,7 +63,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 |-----|-------|----------|
 | Day 1 | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
 | Day 2 | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
-| Day 3 | Statistics & P-value | [day3_statistics_outline.md](week1/day3_statistics_outline.md) (outline) |
+| Day 3 | Statistics & P-value | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
 | Day 4 | Enrichment | [day4_enrichment_expression_outline.md](week1/day4_enrichment_expression_outline.md) (outline) |
 | Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction_outline.md](week1/day5_dimensionality_reduction_outline.md) (outline) |
 
