@@ -7,12 +7,12 @@ A hands-on introduction to Python programming, data analysis, and computational 
 
 ## 🎯 Objectives
 
-**Data analysis is for every scientist.** Every biologist should understand basic computational concepts and feel comfortable working with data. This course aims to:
+**Data analysis is for everyone.** Everyone should understand basic computational concepts. This course aims to:
 
 - **Broaden data analysis understanding** across the institute
 - **Build confidence** in computational approaches
 - **Explain the logic** behind methods, not just how to run tools
-- **Cultural shift** - thinking about the data is part of every researcher's approach
+- **Cultural shift** - thinking about the data is part of every researcher's needs
 
 This is an introductory boost — not a comprehensive training program. The goal is to get you started, familiarize you with code, and help you understand the concepts behind common analyses.
 
@@ -65,7 +65,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 | Day 2 | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
 | Day 3 | Statistics & P-value | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
 | Day 4 | Enrichment | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
-| Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction_outline.md](week1/day5_dimensionality_reduction_outline.md) (outline) |
+| Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) (outline) |
 
 ### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
@@ -131,9 +131,8 @@ All materials are available in this repository:
 
 ## 👥 Target Audience
 
-- IMBB-FORTH lab members (postdocs, PhD students, MSc students, wet lab biologists)
+- IMBB-FORTH lab members (postdocs, PhD students, MSc students, technicians).
 - Researchers with **no programming experience**
-- Scientists interested in understanding computational approaches
 - Anyone who wants to **demystify data analysis**
 
 **Expected participants:** Up to 40 people
@@ -189,10 +188,8 @@ All materials are available in this repository:
 **Course Coordinator:** Alexandros Pittis (alexandros.pittis@gmail.com)
 
 **During the course:**
-- Ask questions during sessions
-- Request help from circulating instructors
-- Use the course communication channel (to be announced)
-
+- Ask questions
+- Request help from instructors
 ---
 
 ## 📝 Feedback
@@ -203,6 +200,6 @@ This is a living course that will improve with your input. After each session, w
 - Technical issues
 - Suggestions for improvement
 
-**Remember:** There are no stupid questions. We are trying to learn also.
+**!** There are no stupid questions. We are also learning.
 
 ---
