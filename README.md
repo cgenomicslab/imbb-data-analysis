@@ -35,8 +35,8 @@ This is an introductory boost — not a comprehensive training program. The goal
 | Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
 
 ### Week 2: Specialized Topics
-**Format:** 2-hour sessions per topic
-**Led by:** Institute groups
+**Format:** 2-hour sessions per topic  
+**Led by:** Institute groups. 
 **Tentative dates:** May 5 – May 9
 
 Topics may include phylogenetics, differential expression, ATAC-seq, single-cell RNA-seq, proteomics, imaging analysis, and others. Final schedule to be confirmed with contributing labs.
