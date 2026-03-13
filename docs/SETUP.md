@@ -3,90 +3,83 @@
 
 Please complete these steps **before Day 1** so we can start coding right away.
 
-The recommended setup is **Miniconda + VSCode**. Google Colab and the course JupyterHub are available as alternatives.
+Choose your operating system and follow the instructions. Google Colab and the course JupyterHub are available as alternatives if you run into problems.
 
 ---
 
-## Step 1: Install Miniconda
+## Windows
 
-Miniconda is a small installer that gives you Python and the `conda` package manager.
+### 1. Install Miniconda
 
-### Windows
+Miniconda gives you Python and the `conda` package manager.
 
 1. Download the installer from [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html) — choose **Miniconda3 Windows 64-bit**.
-2. Run the `.exe` file. Accept the defaults, but **check** "Add Miniconda3 to my PATH environment variable" (ignore the warning).
-3. Open **Command Prompt** (search "cmd" in the Start menu) and verify:
+2. Run the `.exe` file. Keep all the default settings (do **not** check "Add to PATH" — you don't need it).
+3. When the installation finishes, open the Start menu and search for **"Anaconda Prompt (miniconda3)"**. Open it.
+
+You should see a window like this:
+
+```
+(base) C:\Users\YourName>
+```
+
+Type the following and press Enter:
 
 ```
 conda --version
-python --version
 ```
 
-Both should print a version number. If `conda` is not recognized, close and reopen the terminal.
+If it prints a version number (e.g., `conda 24.x.x`), the installation worked.
 
-### macOS
+**Important:** From now on, always use this **Anaconda Prompt** when working on the course — not the regular Command Prompt or PowerShell.
 
-1. Download from [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html).
-   - Apple Silicon (M1/M2/M3): choose **Miniconda3 macOS Apple M1 64-bit pkg**
-   - Intel Mac: choose **Miniconda3 macOS Intel x86 64-bit pkg**
-2. Open the `.pkg` file and follow the installer.
-3. Open **Terminal** (Applications → Utilities → Terminal) and verify:
+### 2. Create a course environment
+
+In the Anaconda Prompt, run these commands one at a time (press Enter after each, and wait for it to finish before running the next):
 
 ```
-conda --version
-python --version
-```
-
-If `conda` is not found, run `source ~/.zshrc` (or `source ~/.bashrc`) and try again.
-
----
-
-## Step 2: Create a Course Environment
-
-Open a terminal (Command Prompt on Windows, Terminal on macOS) and run:
-
-```bash
 conda create -n imbb python=3.11 -y
+```
+
+```
 conda activate imbb
 ```
 
-You should see `(imbb)` at the beginning of your prompt. Then install the packages:
+Your prompt should now start with `(imbb)` instead of `(base)`. Now install the packages:
 
-```bash
-pip install numpy pandas matplotlib seaborn scipy scikit-learn umap-learn jupyter
+```
+conda install numpy pandas matplotlib seaborn scipy scikit-learn jupyter -y
 ```
 
-This takes a few minutes. When it finishes, verify:
+```
+pip install umap-learn
+```
 
-```bash
+When everything finishes, verify:
+
+```
 python -c "import pandas; import seaborn; import sklearn; print('All good.')"
 ```
 
----
+If it prints "All good." — the environment is ready.
 
-## Step 3: Install VSCode
+**Remember:** Every time you open a new Anaconda Prompt to work on the course, you need to run `conda activate imbb` first.
 
-VSCode is a free code editor that runs Jupyter notebooks.
+### 3. Install VSCode
 
-1. Download from [https://code.visualstudio.com](https://code.visualstudio.com) and install.
-2. Open VSCode, click the **Extensions** icon on the left sidebar (or press `Ctrl+Shift+X` on Windows, `Cmd+Shift+X` on macOS).
-3. Search for and install two extensions:
+VSCode is a free code editor that can run Jupyter notebooks.
+
+1. Download from [https://code.visualstudio.com](https://code.visualstudio.com) and install with default settings.
+2. Open VSCode. Click the **Extensions** icon on the left sidebar (or press `Ctrl+Shift+X`).
+3. Search for and install these two extensions:
    - **Python** (by Microsoft)
    - **Jupyter** (by Microsoft)
 
-### Connect VSCode to your environment
-
-1. Press `Ctrl+Shift+P` (Windows) or `Cmd+Shift+P` (macOS).
-2. Type **"Python: Select Interpreter"** and select the one that says `imbb`.
-3. If it doesn't appear, click "Enter interpreter path" and paste the path from running `which python` (macOS) or `where python` (Windows) with the `imbb` environment activated.
-
----
-
-## Step 4: Test Your Setup
+### 4. Test everything
 
 1. Open VSCode.
-2. Press `Ctrl+Shift+P` / `Cmd+Shift+P` → type **"Jupyter: Create New Blank Notebook"**.
-3. Make sure the kernel in the top right says **imbb**. If not, click it and select the `imbb` environment.
+2. Press `Ctrl+Shift+P`, type **"Jupyter: Create New Blank Notebook"** and select it.
+3. In the top right corner of the notebook, click the kernel name. Select the **imbb** environment (it may appear as `Python 3.11 (imbb)`). If you don't see it, press `Ctrl+Shift+P`, type **"Python: Select Interpreter"**, and pick `imbb` from the list.
 4. Paste this into the first cell and press `Shift+Enter`:
 
 ```python
@@ -102,24 +95,173 @@ print("Everything works!")
 
 If you see "Everything works!" — you are ready for Day 1.
 
----
-
-## Step 5: Download Course Materials
-
-### Option A: Download ZIP (simplest)
+### 5. Download course materials
 
 1. Go to [https://github.com/cgenomicslab/imbb-data-analysis](https://github.com/cgenomicslab/imbb-data-analysis)
 2. Click the green **Code** button → **Download ZIP**
 3. Extract the folder somewhere convenient (e.g., Desktop or Documents)
 4. In VSCode: File → Open Folder → select the extracted folder
 
-### Option B: Git clone
+### Windows troubleshooting
 
-If you have git installed:
+**Anaconda Prompt not found in Start menu**
+Search for "miniconda" instead. If nothing appears, re-run the Miniconda installer.
+
+**`conda activate imbb` shows an error**
+Make sure you are in Anaconda Prompt (not Command Prompt). You should see `(base)` in your prompt before activating.
+
+**VSCode doesn't show the imbb kernel**
+Press `Ctrl+Shift+P` → "Python: Select Interpreter" → look for `imbb`. If it's not listed, open Anaconda Prompt, run `conda activate imbb`, then `conda install jupyter -y`.
+
+---
+
+## macOS
+
+### 1. Install Miniconda
+
+Open **Terminal** (Applications → Utilities → Terminal, or press `Cmd+Space` and type "Terminal").
+
+Copy and paste this command to download and run the Miniconda installer:
+
+**Apple Silicon (M1/M2/M3/M4):**
+```bash
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
+bash Miniconda3-latest-MacOSX-arm64.sh
+```
+
+**Intel Mac:**
+```bash
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+bash Miniconda3-latest-MacOSX-x86_64.sh
+```
+
+Not sure which Mac you have? Click the Apple menu → About This Mac. If it says "Apple M1" or similar, it's Apple Silicon. If it says "Intel", it's Intel.
+
+The installer will ask you a few questions:
+- Press `Enter` to review the license, then type `yes` to accept
+- Press `Enter` to confirm the default installation location
+- Type `yes` when asked to initialize conda
+
+When it finishes, **close and reopen Terminal**. You should now see `(base)` at the beginning of your prompt:
+
+```
+(base) yourname@mac ~ %
+```
+
+Verify:
+
+```bash
+conda --version
+```
+
+If it prints a version number, the installation worked. If it says "command not found", run:
+
+```bash
+~/miniconda3/bin/conda init zsh
+```
+
+Then close and reopen Terminal.
+
+You can delete the installer file:
+
+```bash
+rm Miniconda3-latest-MacOSX-*.sh
+```
+
+### 2. Create a course environment
+
+In Terminal, run:
+
+```bash
+conda create -n imbb python=3.11 -y
+```
+
+Wait for it to finish. Then:
+
+```bash
+conda activate imbb
+```
+
+Your prompt should now start with `(imbb)` instead of `(base)`. Install the packages:
+
+```bash
+conda install numpy pandas matplotlib seaborn scipy scikit-learn jupyter -y
+```
+
+```bash
+pip install umap-learn
+```
+
+Verify:
+
+```bash
+python -c "import pandas; import seaborn; import sklearn; print('All good.')"
+```
+
+If it prints "All good." — the environment is ready.
+
+**Remember:** Every time you open a new Terminal to work on the course, you need to run `conda activate imbb` first.
+
+### 3. Install VSCode
+
+Download from [https://code.visualstudio.com](https://code.visualstudio.com). Open the downloaded `.zip` file and drag **Visual Studio Code** to your Applications folder.
+
+Alternatively, if you have [Homebrew](https://brew.sh) installed:
+
+```bash
+brew install --cask visual-studio-code
+```
+
+Open VSCode. Click the **Extensions** icon on the left sidebar (or press `Cmd+Shift+X`). Search for and install these two extensions:
+- **Python** (by Microsoft)
+- **Jupyter** (by Microsoft)
+
+### 4. Test everything
+
+1. Open VSCode.
+2. Press `Cmd+Shift+P`, type **"Jupyter: Create New Blank Notebook"** and select it.
+3. In the top right corner of the notebook, click the kernel name. Select the **imbb** environment (it may appear as `Python 3.11 (imbb)`). If you don't see it, press `Cmd+Shift+P`, type **"Python: Select Interpreter"**, and pick `imbb` from the list.
+4. Paste this into the first cell and press `Shift+Enter`:
+
+```python
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from scipy import stats
+from sklearn.decomposition import PCA
+
+print("Everything works!")
+```
+
+If you see "Everything works!" — you are ready for Day 1.
+
+### 5. Download course materials
+
+The simplest way is to clone the repository:
 
 ```bash
 git clone https://github.com/cgenomicslab/imbb-data-analysis.git
 ```
+
+macOS comes with git pre-installed. If for some reason it isn't available, you can instead:
+
+1. Go to [https://github.com/cgenomicslab/imbb-data-analysis](https://github.com/cgenomicslab/imbb-data-analysis)
+2. Click the green **Code** button → **Download ZIP**
+3. Extract the folder
+
+Then open VSCode: File → Open Folder → select the course folder.
+
+### macOS troubleshooting
+
+**"conda: command not found" after installing**
+Run `~/miniconda3/bin/conda init zsh`, then close and reopen Terminal.
+
+**"xcrun: error: invalid active developer path"**
+macOS is asking you to install command-line tools. Run `xcode-select --install`, follow the prompt, then try again.
+
+**VSCode doesn't show the imbb kernel**
+Press `Cmd+Shift+P` → "Python: Select Interpreter" → look for `imbb`. If it's not listed, open Terminal, run `conda activate imbb`, then `conda install jupyter -y`.
 
 ---
 
@@ -147,19 +289,6 @@ We will provide access to a JupyterHub server with everything pre-installed. Con
 
 ---
 
-## Troubleshooting
+## Still stuck?
 
-**"conda is not recognized" (Windows)**
-Close and reopen Command Prompt. If it still doesn't work, search "Environment Variables" in Windows settings, edit the `Path` variable, and add the path to your Miniconda installation (typically `C:\Users\YourName\miniconda3` and `C:\Users\YourName\miniconda3\Scripts`). Restart the terminal.
-
-**"conda: command not found" (macOS)**
-Run `source ~/.zshrc` in Terminal. If that doesn't help, open `~/.zshrc` in a text editor and check that a line like `eval "$(/Users/YourName/miniconda3/bin/conda shell.zsh hook)"` exists. If not, run `~/miniconda3/bin/conda init zsh` and restart Terminal.
-
-**VSCode doesn't show the imbb kernel**
-Make sure you activated the environment (`conda activate imbb`) and installed `jupyter` inside it. Then in VSCode, press `Ctrl+Shift+P` → "Python: Select Interpreter" and look for the `imbb` environment.
-
-**Package import errors**
-Activate the environment first (`conda activate imbb`), then reinstall: `pip install package_name`.
-
-**Still stuck?**
 Email the course coordinator with a screenshot of the error. Or just use Google Colab for Day 1 — we can sort out installation issues during the break.
