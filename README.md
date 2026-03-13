@@ -7,7 +7,7 @@ A hands-on introduction to Python programming, data analysis, and computational 
 
 ## Objectives
 
-**Data analysis is for everyone.** Everyone should understand basic computational concepts. This course aims to:
+**Everyone** should understand basic computational concepts. This course aims to:
 
 - **Broaden data analysis understanding** across the institute
 - **Build confidence** in computational approaches
