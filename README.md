@@ -21,9 +21,9 @@ This is an introductory boost — not a comprehensive training program. The goal
 ## Course Structure
 
 ### Week 1: Fundamentals
-**Format:** 2-hour sessions daily, Monday–Friday
-**Level:** Complete beginners
-**Approach:** Mix of executable code and hands-on exercises
+**Format:** 2-hour sessions daily, Monday–Friday  
+**Level:** Complete beginners  
+**Approach:** Mix of executable code and hands-on exercises  
 **Tentative dates:** April 28 – May 2
 
 | Day | Topic | Notebook |
