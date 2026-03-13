@@ -1,388 +1,165 @@
-# Installation & Setup Guide
-## IMBB Data Analysis Course - IMBB-FORTH
+# Setup Guide
+## IMBB Data Analysis Course
 
-This guide will help you set up Python and the necessary tools for the course. Choose the method that works best for you.
+Please complete these steps **before Day 1** so we can start coding right away.
 
----
-
-## 🎯 Quick Decision Guide
-
-**Choose your setup method:**
-
-- **Windows users:** → Native Python (Option 1) or Google Colab (Option 3)
-- **Mac users:** → Native Python (Option 2) or Google Colab (Option 3)  
-- **Linux users:** → Native Python (similar to Mac) or Google Colab (Option 3)
-- **Installation problems?** → Google Colab (Option 3)
-- **Want centralized access?** → IMBB JupyterHub (Option 4, if available)
-
-**Recommended:** Try native installation first (Options 1-2), keep Google Colab as backup.
+The recommended setup is **Miniconda + VSCode**. Google Colab and the course JupyterHub are available as alternatives.
 
 ---
 
-## Option 1: Windows Native Installation
+## Step 1: Install Miniconda
 
-### Step 1: Install Python via Anaconda
+Miniconda is a small installer that gives you Python and the `conda` package manager.
 
-1. **Download Anaconda:**
-   - Go to [https://www.anaconda.com/download](https://www.anaconda.com/download)
-   - Download the Windows installer (Python 3.11 or newer)
-   - File size: ~600 MB
+### Windows
 
-2. **Install Anaconda:**
-   - Run the downloaded `.exe` file
-   - Click "Next" through the installer
-   - **Important:** Check "Add Anaconda to my PATH environment variable" (even if not recommended)
-   - Install for "Just Me"
-   - Complete installation (~5-10 minutes)
+1. Download the installer from [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html) — choose **Miniconda3 Windows 64-bit**.
+2. Run the `.exe` file. Accept the defaults, but **check** "Add Miniconda3 to my PATH environment variable" (ignore the warning).
+3. Open **Command Prompt** (search "cmd" in the Start menu) and verify:
 
-3. **Verify installation:**
-   - Open "Anaconda Prompt" from Start Menu
-   - Type: `python --version`
-   - Should show: `Python 3.11.x` or newer
-   - Type: `conda --version`
-   - Should show conda version
-
-### Step 2: Install Required Packages
-
-Open "Anaconda Prompt" and run these commands one by one:
-
-```bash
-conda install numpy pandas matplotlib seaborn scipy scikit-learn -y
-conda install jupyter notebook -y
+```
+conda --version
+python --version
 ```
 
-**Wait** for each command to finish (may take 2-5 minutes).
+Both should print a version number. If `conda` is not recognized, close and reopen the terminal.
 
-### Step 3: Install VSCode
+### macOS
 
-1. **Download VSCode:**
-   - Go to [https://code.visualstudio.com](https://code.visualstudio.com)
-   - Download Windows installer
-   - Run installer with default settings
+1. Download from [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html).
+   - Apple Silicon (M1/M2/M3): choose **Miniconda3 macOS Apple M1 64-bit pkg**
+   - Intel Mac: choose **Miniconda3 macOS Intel x86 64-bit pkg**
+2. Open the `.pkg` file and follow the installer.
+3. Open **Terminal** (Applications → Utilities → Terminal) and verify:
 
-2. **Install Python Extension:**
-   - Open VSCode
-   - Click Extensions icon (left sidebar, or Ctrl+Shift+X)
-   - Search for "Python" (by Microsoft)
-   - Click "Install"
-   - Search for "Jupyter" (by Microsoft)
-   - Click "Install"
-
-3. **Test setup:**
-   - Open VSCode
-   - Press Ctrl+Shift+P
-   - Type "Jupyter: Create New Blank Notebook"
-   - In the notebook, type: `import pandas as pd; print(pd.__version__)`
-   - Press Shift+Enter to run
-   - Should print pandas version (e.g., `2.2.0`)
-
-### Common Windows Issues
-
-**Problem:** "python is not recognized"
-- **Solution:** Add Python to PATH manually:
-  - Search "Environment Variables" in Windows
-  - Edit "Path" variable
-  - Add: `C:\Users\YourUsername\anaconda3`
-  - Add: `C:\Users\YourUsername\anaconda3\Scripts`
-  - Restart terminal
-
-**Problem:** Permission errors during installation
-- **Solution:** Run Anaconda Prompt as Administrator (right-click → Run as administrator)
-
-**Note on WSL:** We **do NOT recommend** using WSL (Windows Subsystem for Linux) for this course. Native Windows installation is simpler and sufficient.
-
----
-
-## Option 2: macOS Native Installation
-
-### Step 1: Install Python via Anaconda
-
-1. **Download Anaconda:**
-   - Go to [https://www.anaconda.com/download](https://www.anaconda.com/download)
-   - Download macOS installer (Intel or Apple Silicon)
-   - File size: ~600 MB
-
-2. **Install Anaconda:**
-   - Open the downloaded `.pkg` file
-   - Follow installation wizard
-   - Use default settings
-   - Complete installation
-
-3. **Verify installation:**
-   - Open "Terminal" (Applications → Utilities → Terminal)
-   - Type: `python --version`
-   - Should show: `Python 3.11.x` or newer
-   - Type: `conda --version`
-   - Should show conda version
-
-### Step 2: Install Required Packages
-
-Open Terminal and run:
-
-```bash
-conda install numpy pandas matplotlib seaborn scipy scikit-learn -y
-conda install jupyter notebook -y
+```
+conda --version
+python --version
 ```
 
-### Step 3: Install VSCode
-
-1. **Download VSCode:**
-   - Go to [https://code.visualstudio.com](https://code.visualstudio.com)
-   - Download macOS installer
-   - Open `.zip` file and drag VSCode to Applications
-
-2. **Install Extensions:**
-   - Open VSCode
-   - Click Extensions icon (Cmd+Shift+X)
-   - Install "Python" (by Microsoft)
-   - Install "Jupyter" (by Microsoft)
-
-3. **Test setup:**
-   - Open VSCode
-   - Press Cmd+Shift+P
-   - Type "Jupyter: Create New Blank Notebook"
-   - Test with: `import pandas as pd; print(pd.__version__)`
+If `conda` is not found, run `source ~/.zshrc` (or `source ~/.bashrc`) and try again.
 
 ---
 
-## Option 3: Google Colab (No Installation)
+## Step 2: Create a Course Environment
 
-**Best for:** Anyone with installation problems, or as a backup option.
+Open a terminal (Command Prompt on Windows, Terminal on macOS) and run:
 
-### Setup Steps
+```bash
+conda create -n imbb python=3.11 -y
+conda activate imbb
+```
 
-1. **Create Google Account:**
-   - If you don't have one: [https://accounts.google.com](https://accounts.google.com)
+You should see `(imbb)` at the beginning of your prompt. Then install the packages:
 
-2. **Access Google Colab:**
-   - Go to [https://colab.research.google.com](https://colab.research.google.com)
-   - Sign in with Google account
+```bash
+pip install numpy pandas matplotlib seaborn scipy scikit-learn umap-learn jupyter
+```
 
-3. **Test Colab:**
-   - Click "New Notebook"
-   - In a cell, type: `import pandas as pd; print(pd.__version__)`
-   - Press Shift+Enter
-   - Should print pandas version
+This takes a few minutes. When it finishes, verify:
 
-4. **Using Course Materials:**
-   - Download `.ipynb` files from our GitHub
-   - In Colab: File → Upload Notebook → Choose file
-   - OR: File → Open Notebook → GitHub tab → Enter repo URL: `https://github.com/cgenomicslab/imbb-data-analysis`
-
-### Colab Advantages
-✅ No installation needed  
-✅ Works on any computer with internet  
-✅ Pre-installed packages  
-✅ Free GPU access (not needed for this course)
-
-### Colab Limitations
-⚠️ Files don't persist (save to Google Drive)  
-⚠️ Sessions timeout after inactivity  
-⚠️ Requires internet connection
-
-### Saving Your Work in Colab
-- **Option 1:** File → Save a copy in Drive
-- **Option 2:** File → Download → Download .ipynb
-- **Recommended:** Save regularly during sessions!
+```bash
+python -c "import pandas; import seaborn; import sklearn; print('All good.')"
+```
 
 ---
 
-## Option 4: IMBB JupyterHub (If Available)
+## Step 3: Install VSCode
 
-**Status:** To be confirmed with institute administration.
+VSCode is a free code editor that runs Jupyter notebooks.
 
-If we set up a centralized JupyterHub:
+1. Download from [https://code.visualstudio.com](https://code.visualstudio.com) and install.
+2. Open VSCode, click the **Extensions** icon on the left sidebar (or press `Ctrl+Shift+X` on Windows, `Cmd+Shift+X` on macOS).
+3. Search for and install two extensions:
+   - **Python** (by Microsoft)
+   - **Jupyter** (by Microsoft)
 
-### Advantages
-✅ Pre-configured environment  
-✅ No installation needed  
-✅ Accessible from any computer  
-✅ Shared computing resources
+### Connect VSCode to your environment
 
-### Access Instructions (TBD)
-- Server URL will be provided
-- Username/password will be sent via email
-- Login and start coding!
-
----
-
-## Linux Installation (Brief)
-
-Most Linux users can follow similar steps to macOS:
-
-1. **Install Anaconda:**
-   - Download from anaconda.com
-   - Run: `bash Anaconda3-*.sh`
-   - Follow prompts
-
-2. **Install packages:**
-   ```bash
-   conda install numpy pandas matplotlib seaborn scipy scikit-learn jupyter -y
-   ```
-
-3. **Install VSCode:**
-   - Download `.deb` or `.rpm` from code.visualstudio.com
-   - Install Python and Jupyter extensions
+1. Press `Ctrl+Shift+P` (Windows) or `Cmd+Shift+P` (macOS).
+2. Type **"Python: Select Interpreter"** and select the one that says `imbb`.
+3. If it doesn't appear, click "Enter interpreter path" and paste the path from running `which python` (macOS) or `where python` (Windows) with the `imbb` environment activated.
 
 ---
 
-## 📦 Required Packages Summary
+## Step 4: Test Your Setup
 
-All methods should have these packages:
-
-| Package | Purpose |
-|---------|---------|
-| `numpy` | Numerical arrays and operations |
-| `pandas` | DataFrames and data manipulation |
-| `matplotlib` | Basic plotting |
-| `seaborn` | Statistical visualizations |
-| `scipy` | Scientific computing and statistics |
-| `scikit-learn` | Machine learning (PCA, etc.) |
-| `jupyter` | Notebook interface |
-
-**Versions:** Any recent version is fine. Course tested with Python 3.10+.
-
----
-
-## ✅ Test Your Installation
-
-Before Day 1, test that everything works:
-
-### Test 1: Launch Jupyter
-
-**Windows:**
-- Open Anaconda Prompt
-- Type: `jupyter notebook`
-- Should open browser with Jupyter
-
-**Mac/Linux:**
-- Open Terminal
-- Type: `jupyter notebook`
-
-**All platforms:**
-- Browser should open showing file navigator
-- Create new Python 3 notebook
-- You're ready!
-
-### Test 2: Import Packages
-
-In a Jupyter notebook or VSCode, run this cell:
+1. Open VSCode.
+2. Press `Ctrl+Shift+P` / `Cmd+Shift+P` → type **"Jupyter: Create New Blank Notebook"**.
+3. Make sure the kernel in the top right says **imbb**. If not, click it and select the `imbb` environment.
+4. Paste this into the first cell and press `Shift+Enter`:
 
 ```python
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib.pyplot as plt
 from scipy import stats
 from sklearn.decomposition import PCA
 
-print("✅ All packages imported successfully!")
-print(f"NumPy version: {np.__version__}")
-print(f"Pandas version: {pd.__version__}")
+print("Everything works!")
 ```
 
-If this runs without errors, you're all set!
-
-### Test 3: Simple Plot
-
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# Load example data
-tips = sns.load_dataset('tips')
-
-# Create plot
-sns.scatterplot(data=tips, x='total_bill', y='tip')
-plt.title('Test Plot')
-plt.show()
-```
-
-If you see a scatter plot, everything works!
+If you see "Everything works!" — you are ready for Day 1.
 
 ---
 
-## 🆘 Troubleshooting
+## Step 5: Download Course Materials
 
-### General Issues
+### Option A: Download ZIP (simplest)
 
-**Problem:** Package import errors
-- **Solution:** Reinstall package: `conda install package_name -y`
+1. Go to [https://github.com/cgenomicslab/imbb-data-analysis](https://github.com/cgenomicslab/imbb-data-analysis)
+2. Click the green **Code** button → **Download ZIP**
+3. Extract the folder somewhere convenient (e.g., Desktop or Documents)
+4. In VSCode: File → Open Folder → select the extracted folder
 
-**Problem:** Jupyter doesn't start
-- **Solution:** Try: `conda install jupyter -y --force-reinstall`
-
-**Problem:** VSCode can't find Python
-- **Solution:** In VSCode, press Ctrl/Cmd+Shift+P → "Python: Select Interpreter" → Choose Anaconda Python
-
-### Getting Help
-
-1. **Before Day 1:**
-   - Email course coordinator with screenshot of error
-   - Try Google Colab as backup
-
-2. **During Day 1:**
-   - Helpers will circulate to assist
-   - Use Google Colab if installation fails
-
-3. **General Resources:**
-   - [Anaconda Documentation](https://docs.anaconda.com)
-   - [VSCode Python Tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
-   - [Google Colab FAQ](https://research.google.com/colaboratory/faq.html)
-
----
-
-## 📚 Downloading Course Materials
-
-### Method 1: Download ZIP (Easiest)
-
-1. Go to https://github.com/cgenomicslab/imbb-data-analysis
-2. Click green "Code" button
-3. Click "Download ZIP"
-4. Extract to your Documents folder
-5. Open in VSCode or Jupyter
-
-### Method 2: Git Clone (Advanced)
+### Option B: Git clone
 
 If you have git installed:
 
 ```bash
 git clone https://github.com/cgenomicslab/imbb-data-analysis.git
-cd imbb-data-analysis
-jupyter notebook
 ```
 
-### Method 3: Individual Files
+---
 
-- Download specific `.ipynb` notebooks as needed
-- Download datasets from `data/` folder
-- Save to a dedicated course folder
+## Alternatives
+
+### Google Colab (no installation)
+
+If you run into problems with the local setup, you can use Google Colab as a backup.
+
+1. Go to [https://colab.research.google.com](https://colab.research.google.com) and sign in with a Google account.
+2. File → Open Notebook → GitHub tab → paste `https://github.com/cgenomicslab/imbb-data-analysis`.
+3. Select the notebook you want to open.
+
+Colab has most packages pre-installed. For packages it doesn't have (like `umap-learn`), add a cell at the top:
+
+```python
+!pip install umap-learn
+```
+
+Keep in mind that Colab sessions are temporary — save your work to Google Drive or download the notebook when you're done.
+
+### Course JupyterHub
+
+We will provide access to a JupyterHub server with everything pre-installed. Connection details will be shared before the course. This is a good fallback if your local setup has issues, but we encourage you to set up your own environment so you can keep using it after the course.
 
 ---
 
-## 🎓 Ready for Day 1!
+## Troubleshooting
 
-Once you can:
-- ✅ Open Jupyter notebooks (any method)
-- ✅ Import numpy, pandas, matplotlib, seaborn
-- ✅ Create a simple plot
+**"conda is not recognized" (Windows)**
+Close and reopen Command Prompt. If it still doesn't work, search "Environment Variables" in Windows settings, edit the `Path` variable, and add the path to your Miniconda installation (typically `C:\Users\YourName\miniconda3` and `C:\Users\YourName\miniconda3\Scripts`). Restart the terminal.
 
-**You're ready to start!**
+**"conda: command not found" (macOS)**
+Run `source ~/.zshrc` in Terminal. If that doesn't help, open `~/.zshrc` in a text editor and check that a line like `eval "$(/Users/YourName/miniconda3/bin/conda shell.zsh hook)"` exists. If not, run `~/miniconda3/bin/conda init zsh` and restart Terminal.
 
-See you on Day 1. Don't worry if you encounter issues—we'll have help available.
+**VSCode doesn't show the imbb kernel**
+Make sure you activated the environment (`conda activate imbb`) and installed `jupyter` inside it. Then in VSCode, press `Ctrl+Shift+P` → "Python: Select Interpreter" and look for the `imbb` environment.
 
----
+**Package import errors**
+Activate the environment first (`conda activate imbb`), then reinstall: `pip install package_name`.
 
-## 💡 Tips for Success
-
-1. **Create a dedicated folder** for course materials
-2. **Organize by day:** `day1/`, `day2/`, etc.
-3. **Save your work frequently**
-4. **Keep notes** in the notebooks (add markdown cells)
-5. **Don't be afraid to experiment** and break things!
-
-Remember: **Everyone was a beginner once.** It's okay to ask for help!
-
----
-
-*Questions? Contact the course coordinator or ask during Day 1.*
+**Still stuck?**
+Email the course coordinator with a screenshot of the error. Or just use Google Colab for Day 1 — we can sort out installation issues during the break.

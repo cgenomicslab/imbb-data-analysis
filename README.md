@@ -5,7 +5,7 @@ A hands-on introduction to Python programming, data analysis, and computational 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 **Data analysis is for everyone.** Everyone should understand basic computational concepts. This course aims to:
 
@@ -18,190 +18,95 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ---
 
-## 📚 Course Structure
+## Course Structure
 
 ### Week 1: Fundamentals
-**Format:** 2-hour sessions daily, Monday-Friday  
-**Level:** Complete beginners  
+**Format:** 2-hour sessions daily, Monday–Friday
+**Level:** Complete beginners
 **Approach:** Mix of executable code and hands-on exercises
-**Tentative dates:** April 27 - May 1
-
-#### Daily Schedule
-
-**Day 1: Python Fundamentals**
-- Variables, data types, basic operations
-- Lists, dictionaries, and slicing
-- Loops, conditionals, and simple functions
-- Understanding imports
-
-**Day 2: Plotting & Data Exploration**
-- Seaborn visualization
-- Pandas DataFrames: filtering, selection, groupby
-- Correlation visualization
-- Expression data preview
-
-**Day 3: Statistics & P-value Logic**
-- Understanding p-values through permutation tests
-- T-test and Mann-Whitney U test
-- Correlation significance testing
-- Visualizing distributions and testing differences
-
-**Day 4: Enrichment & Expression Analysis**
-- Enrichment logic
-- Hypergeometric and permutation tests
-- GO term enrichment
-- Differential expression
-
-**Day 5: Dimensionality Reduction**
-- PCA
-- Variance explained and loadings interpretation
-- UMAP visualization
-- Integration
-
-#### Week 1 Notebooks
+**Tentative dates:** April 28 – May 2
 
 | Day | Topic | Notebook |
 |-----|-------|----------|
 | Day 1 | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
 | Day 2 | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
-| Day 3 | Statistics & P-value | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
-| Day 4 | Enrichment | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
-| Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) (outline) |
+| Day 3 | Statistics & P-value Logic | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
+| Day 4 | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
+| Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
 
 ### Week 2: Specialized Topics
-**Format:** 2-hour sessions per topic  
-**Led by:** Institute Groups
-**Tentative dates:** May 4 - May 8
+**Format:** 2-hour sessions per topic
+**Led by:** Institute groups
+**Tentative dates:** May 5 – May 9
 
-#### Tentative Topics
-
-| Topic |
-|-------|
-| Phylogenetics & Orthology/Paralogy |
-| Differential Gene Expression Analysis |
-| ATAC-seq Analysis |
-| Single-cell RNA-seq |
-| Proteomics Analysis |
-| Neurophysiology Data Analysis |
-| Behavioral Data Analysis |
-| Imaging Analysis |
-
-*Note: Final schedule to be confirmed with contributing labs*
+Topics may include phylogenetics, differential expression, ATAC-seq, single-cell RNA-seq, proteomics, imaging analysis, and others. Final schedule to be confirmed with contributing labs.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **No programming experience required**
 - Laptop with admin rights for software installation
 - Willingness to learn and experiment
-- Basic familiarity with biological concepts
 
 ### Before Day 1
-1. **Install Python and tools** (see [SETUP.md](docs/SETUP.md))
-   - Recommended: Native Python installation with VSCode
-   - Backup: Google Colab account (free)
-   - Alternative: Institute JupyterHub (access to be provided)
-
-2. **Optional preparation:**
-   - Review basic Python syntax: [Python for beginners tutorial by Alexandros Kanterakis](https://github.com/kantale/python_lessons) (colleague's repo)
-   - Test your setup with a simple Jupyter notebook
+1. **Install Python and tools** — see [docs/SETUP.md](docs/SETUP.md)
+2. **Optional preparation:** [Python for beginners tutorial by Alexandros Kanterakis](https://github.com/kantale/python_lessons)
 
 ### Course Materials
-All materials are available in this repository:
-- **week1/**: Jupyter notebooks for Week 1 (5 days)
-- **data/**: Datasets used throughout the course
-- **docs/**: Setup instructions and additional resources
+All materials are in this repository:
+- **week1/** — Jupyter notebooks for Week 1 (5 days)
+- **data/** — Datasets used throughout the course
+- **docs/** — Setup instructions
 
 ---
 
-## 💻 Technical Setup
+## Technical Setup
 
-### Recommended Setup (Native Installation)
-- **Python 3.10+** via Anaconda or Miniconda
-- **VSCode** with Python and Jupyter extensions
-- **Required packages:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap-learn
+**Recommended:** Miniconda + VSCode (see [docs/SETUP.md](docs/SETUP.md))
 
-### Alternative Options
-- **Google Colab:** Browser-based, no installation needed
-- **IMBB JupyterHub:** Centralized server (access provided during course)
+Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap-learn
 
-**Detailed instructions:** See [docs/SETUP.md](docs/SETUP.md)
+**Alternatives:** Google Colab (browser-based, no installation) or IMBB JupyterHub (access provided during course).
 
 ---
 
-## 👥 Target Audience
+## Target Audience
 
-- IMBB-FORTH lab members (postdocs, PhD students, MSc students, technicians).
+- IMBB-FORTH lab members (postdocs, PhD students, MSc students, technicians)
 - Researchers with **no programming experience**
 - Anyone who wants to **demystify data analysis**
 
-**Expected participants:** Up to 40 people
+**Expected participants:** Up to 40
 
 ---
 
-## 🤝 Course Coordination & Contributing Groups
+## Coordination & Contributing Groups
 
-### Coordination
-- [**CGLab (Pittis)**](https://cgenomicslab.org/)
+**Coordination:** [CGLab (Pittis)](https://cgenomicslab.org/)
 
-### Contributing Labs?
-- **Comparative Genomics Lab (Pittis)**
-- **Bioinformatics Unit (Andronis)**
-- **Epigenetics, RNA Biology & Gene Regulation Lab (Ntini)**
-- **Genome Integrity & Gene Control Mechanisms Lab (Lavigne)**
-- **Biology of Stem Cells (Delidakis)**
-- **Chromatin & Cancer Epigenetics Lab (Talianidis)**
-- **Dynamic Structural Biology (Gouridis)**
-- **Dendrites (Poirazi)**
-- **Systems Neuroscience Lab (Froudarakis)**
-- **Developmental Morphogenesis Lab (Pavlopoulos)**
+**Contributing labs (tentative):** Comparative Genomics (Pittis), Bioinformatics Unit (Andronis), Epigenetics & RNA Biology (Ntini), Genome Integrity (Lavigne), Stem Cells (Delidakis), Chromatin & Cancer Epigenetics (Talianidis), Dynamic Structural Biology (Gouridis), Dendrites (Poirazi), Systems Neuroscience (Froudarakis), Developmental Morphogenesis (Pavlopoulos).
 
 ---
 
-## 📖 Additional Resources
+## Additional Resources
 
-### Recommended Learning Paths
 - [Python lessons repository by Alexandros Kanterakis](https://github.com/kantale/python_lessons) (in Greek/English)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html) (single-cell)
 - [Seaborn documentation](https://seaborn.pydata.org/)
 
-### IMBB Resources
-- IMBB Bioinformatics Unit
-- IMBB-FORTH computing infrastructure
-- Collaboration with University of Crete
+---
+
+## Contact
+
+**Course Coordinator:** [Alexandros Pittis](https://cgenomicslab.org/#contact) (alexandros.pittis@gmail.com)
 
 ---
 
-## 🔗 Quick Links
+## Feedback
 
-- **Course Repository:** https://github.com/cgenomicslab/imbb-data-analysis
-- **Installation Help:** [docs/SETUP.md](docs/SETUP.md)
-- **Week 1 Materials:** [week1/](week1/)
-- **Datasets:** [data/](data/)
-- **IMBB Website:** [https://www.imbb.forth.gr](https://www.imbb.forth.gr)
+This is a living course that will improve with your input. After each session, we welcome feedback on pace, clarity, and content.
 
----
-
-## 📧 Contact & Support
-
-**Course Coordinator:** [Alexandros Pittis (alexandros.pittis@gmail.com)](https://cgenomicslab.org/#contact)
-
-**During the course:**
-- Ask questions
-- Request help from instructors
----
-
-## 📝 Feedback
-
-This is a living course that will improve with your input. After each session, we welcome feedback on:
-- Pace and difficulty
-- Content clarity
-- Technical issues
-- Suggestions for improvement
-
-**!** There are no stupid questions. We are also learning.
-
----
+**There are no stupid questions. We are also learning.**
