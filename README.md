@@ -24,7 +24,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 **Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
 **Approach:** Mix of executable code and hands-on exercises  
-**Tentative dates:** April 28 – May 2
+**Tentative dates:** April 28 – May 2  
 
 | Day | Topic | Notebook |
 |-----|-------|----------|
@@ -37,7 +37,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 ### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
 **Led by:** Institute groups  
-**Tentative dates:** May 5 – May 9
+**Tentative dates:** May 5 – May 9  
 
 Topics may include phylogenetics, differential expression, ATAC-seq, single-cell RNA-seq, proteomics, imaging analysis, and others. Final schedule to be confirmed with contributing labs.
 
