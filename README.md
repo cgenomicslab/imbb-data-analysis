@@ -24,6 +24,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 **Format:** 2-hour sessions daily, Monday-Friday  
 **Level:** Complete beginners  
 **Approach:** Mix of executable code and hands-on exercises
+**Tentative dates:** April 27 - May 1
 
 #### Daily Schedule
 
@@ -70,6 +71,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 ### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
 **Led by:** Institute Groups
+**Tentative dates:** May 4 - May 8
 
 #### Tentative Topics
 
@@ -142,7 +144,7 @@ All materials are available in this repository:
 ## 🤝 Course Coordination & Contributing Groups
 
 ### Coordination
-- **CGLab (Pittis)**
+- [**CGLab (Pittis)**](https://cgenomicslab.org/)
 
 ### Contributing Labs?
 - **Comparative Genomics Lab (Pittis)**
@@ -161,7 +163,7 @@ All materials are available in this repository:
 ## 📖 Additional Resources
 
 ### Recommended Learning Paths
-- [Python lessons repository](https://github.com/kantale/python_lessons) (in Greek/English)
+- [Python lessons repository by Alexandros Kanterakis](https://github.com/kantale/python_lessons) (in Greek/English)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html) (single-cell)
 - [Seaborn documentation](https://seaborn.pydata.org/)
@@ -185,7 +187,7 @@ All materials are available in this repository:
 
 ## 📧 Contact & Support
 
-**Course Coordinator:** Alexandros Pittis (alexandros.pittis@gmail.com)
+**Course Coordinator:** [Alexandros Pittis (alexandros.pittis@gmail.com)](https://cgenomicslab.org/#contact)
 
 **During the course:**
 - Ask questions
