@@ -37,7 +37,11 @@ This is an introductory boost — not a comprehensive training program. The goal
 **Led by:** Institute groups  
 **Tentative dates:** May 4 – May 8
 
-Topics may include differential gene expression analysis, single-cell RNA-seq, ATAC-seq, proteomics, imaging analysis, phylogenetics, behavioral data analysis. Final schedule to be confirmed with contributing labs.
+Topics: **differential gene expression analysis**, **single-cell RNA-seq**, **ATAC-seq**. 
+
+Other topic may include: proteomics, imaging analysis, phylogenetics, behavioral data analysis. 
+
+Final schedule to be confirmed with contributing labs.
 
 ---
 
