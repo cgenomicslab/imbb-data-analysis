@@ -7,12 +7,10 @@ A hands-on introduction to Python programming, data analysis, and computational 
 
 ## Objectives
 
-**Everyone** should understand basic computational concepts. This course aims to:
+This course aims to:
 
 - **Broaden data analysis understanding** across the institute
-- **Build confidence** in computational approaches
 - **Explain the logic** behind methods, not just how to run tools
-- **Cultural shift** - thinking about the data is part of every researcher's needs
 
 This is an introductory boost — not a comprehensive training program. The goal is to get you started, familiarize you with code, and help you understand the concepts behind common analyses.
 
@@ -39,7 +37,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 **Led by:** Institute groups  
 **Tentative dates:** May 4 – May 8
 
-Topics may include phylogenetics, differential expression, ATAC-seq, single-cell RNA-seq, proteomics, imaging analysis, and others. Final schedule to be confirmed with contributing labs.
+Topics may include differential gene expression analysis, single-cell RNA-seq, ATAC-seq, proteomics, imaging analysis, phylogenetics, behavioral data analysis. Final schedule to be confirmed with contributing labs.
 
 ---
 
@@ -48,7 +46,6 @@ Topics may include phylogenetics, differential expression, ATAC-seq, single-cell
 ### Prerequisites
 - **No programming experience required**
 - Laptop with admin rights for software installation
-- Willingness to learn and experiment
 
 ### Before Day 1
 1. **Install Python and tools** — see [docs/SETUP.md](docs/SETUP.md)
@@ -74,9 +71,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ## Target Audience
 
-- IMBB-FORTH lab members (postdocs, PhD students, MSc students, technicians)
-- Researchers with **no programming experience**
-- Anyone who wants to **demystify data analysis**
+- IMBB-FORTH lab members (postdocs, PhD students, MSc students, technicians) with **no programming experience**
 
 **Expected participants:** Up to 40
 
@@ -117,6 +112,4 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ## Feedback
 
-This is a living course that will improve with your input. After each session, we welcome feedback on pace, clarity, and content.
-
-**There are no stupid questions. We are also learning.**
+This is a living course that will improve with your input. After each session, we **welcome feedback on pace, clarity, and content**.
