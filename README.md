@@ -29,7 +29,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 | Date | Room | Coordination | Topic | Notebook |
 |---------------------|-----|--------------|-------|----------|
-| **Mon 27/4/26** - Day 1 | Orfanoudakis | [Alexandros Pittis](mailto:alexandros.pittis@gmail.com) | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
+| **Mon 27/4/26** - Day 1 | Orfanoudakis | <details>[Alexandros Pittis](mailto:alexandros.pittis@gmail.com)<details> | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
 | **Tue 28/4/26** - Day 2 | Orfanoudakis | [Alexandros Pittis](mailto:alexandros.pittis@gmail.com) | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
 | **Wed 29/4/26** - Day 3 | Pagiatakis | [Alexandros Pittis](mailto:alexandros.pittis@gmail.com) | Statistics & P-value Logic | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
 | **Thu 30/4/26** - Day 4 | Pagiatakis | [Alexandros Pittis](mailto:alexandros.pittis@gmail.com) | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
