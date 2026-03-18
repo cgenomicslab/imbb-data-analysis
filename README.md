@@ -21,7 +21,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 ### Week 1: Fundamentals
 **Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
-**Tentative dates:** April 27 – May 1
+**Tentative dates:** April 27 – May 1  
 **Time** 10:00-12:00
 
 
@@ -38,7 +38,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 ### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
 **Led by:** Institute groups  
-**Tentative dates:** May 4 – May 8
+**Tentative dates:** May 4 – May 8  
 **Time** 10:00-12:00
 
 
@@ -48,7 +48,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 |---------------------|-----|--------------|-------|----------|
 | **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis | Bulk RNA-seq | day_6_rnaseq.ipynb |
 | **Tue 5/5/26** - Day 7 | ? | Vaso Theodorou/Ethan Baird | single-cell RNA-seq | day_7_scrnaseq.ipynb |
-| **Wed 6/5/26** - Day 8 | Pagiatakis | Ioannis Giannoulakis/Orsalia Hazapis | ATAC-seq | day_8_atcseq.ipynb |
+| **Wed 6/5/26** - Day 8 | Pagiatakis | Orsalia Hazapis/Ioannis Giannoulakis | ATAC-seq | day_8_atcseq.ipynb |
 | **Thu 7/5/26** - Day 9 | Pagiatakis | instructors | Bring your own data | ? |
 | **Fri 8/5/26** - Day 10 | Pagiatakis (TBC) | instructors | Bring your own data | ? |
 
