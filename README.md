@@ -21,27 +21,35 @@ This is an introductory boost — not a comprehensive training program. The goal
 ### Week 1: Fundamentals
 **Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
-**Approach:** Mix of executable code and hands-on exercises  
 **Tentative dates:** April 27 – May 1
 
-| Day | Topic | Notebook |
-|-----|-------|----------|
-| Day 1 | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
-| Day 2 | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
-| Day 3 | Statistics & P-value Logic | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
-| Day 4 | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
-| Day 5 | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
+
+## Schedule
+
+| Date | Room | Coordination | Topic | Notebook |
+|---------------------|-----|--------------|-------|----------|
+| **Mon 27/4/26** - Day 1 | Orfanoudakis | [Alexandros Pittis](alexandros.pittis@gmail.com) | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
+| **Tue 28/4/26** - Day 2 | Orfanoudakis | [Alexandros Pittis](alexandros.pittis@gmail.com) | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
+| **Wed 29/4/26** - Day 3 | Pagiatakis | [Alexandros Pittis](alexandros.pittis@gmail.com) | Statistics & P-value Logic | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
+| **Thu 30/4/26** - Day 4 | Pagiatakis | [Alexandros Pittis](alexandros.pittis@gmail.com) | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
+| **Fri 1/5/26** - Day 5 | Pagiatakis | [Alexandros Pittis](alexandros.pittis@gmail.com) | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
 
 ### Week 2: Specialized Topics
 **Format:** 2-hour sessions per topic  
 **Led by:** Institute groups  
 **Tentative dates:** May 4 – May 8
 
-Topics: **differential gene expression analysis**, **single-cell RNA-seq**, **ATAC-seq**. 
+## Schedule
 
-Other topic may include: proteomics, imaging analysis, phylogenetics, behavioral data analysis. 
+| Date | Room | Coordination | Topic | Notebook |
+|---------------------|-----|--------------|-------|----------|
+| **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis | Bulk RNA-seq | day_6_rnaseq.ipynb |
+| **Tue 5/5/26** - Day 7 | ? | Vaso Theodorou/Ethan Baird | single-cell RNA-seq | day_7_scrnaseq.ipynb |
+| **Wed 6/5/26** - Day 8 | Pagiatakis | Ioannis Giannoulakis/Orsalia Hazapis | ATAC-seq | day_8_atcseq.ipynb |
+| **Thu 7/5/26** - Day 9 | Pagiatakis | instructors | Bring your own data | ? |
+| **Fri 8/5/26** - Day 10 | Pagiatakis (TBC) | instructors | Bring your own data | ? |
 
-Final schedule to be confirmed with contributing labs.
+Final schedule to be confirmed with contributing labs/instructors.
 
 ---
 
@@ -75,7 +83,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ## Target Audience
 
-- IMBB-FORTH lab members (postdocs, PhD students, MSc students, technicians) with **no programming experience**
+- IMBB-FORTH lab members (MSc students, PhD students, postdocs, technicians) with **no programming experience**
 
 **Expected participants:** Up to 40
 
