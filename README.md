@@ -1,4 +1,4 @@
-# IMBB Data Analysis Course
+# IMBB Data Analysis workshop
 ## Institute of Molecular Biology and Biotechnology - FORTH, Heraklion, Crete
 
 A **hands-on** introduction to Python programming, data analysis, and computational biology for wet lab biologists.
@@ -7,7 +7,7 @@ A **hands-on** introduction to Python programming, data analysis, and computatio
 
 ## Objectives
 
-This course aims to:
+This workshop aims to:
 
 - **Broaden data analysis understanding** across the institute
 - **Explain the logic** behind methods, not just how to run tools
@@ -16,7 +16,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ---
 
-## Course Structure
+## Workshop Structure
 
 ### Week 1: Fundamentals
 **Format:** 2-hour sessions daily, Monday–Friday  
