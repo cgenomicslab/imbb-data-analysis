@@ -44,7 +44,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## Schedule
 
-| Date | Room | Coordination | Topic | Notebook |
+| Date | Room | Coordination (TBD) | Topic | Notebook |
 |---------------------|-----|--------------|-------|----------|
 | **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis | Bulk RNA-seq | day_6_rnaseq.ipynb |
 | **Tue 5/5/26** - Day 7 | ? | Vaso Theodorou/Ethan Baird | single-cell RNA-seq | day_7_scrnaseq.ipynb |
