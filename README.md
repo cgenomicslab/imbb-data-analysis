@@ -5,18 +5,19 @@ A **hands-on** introduction to Python programming, data analysis, and computatio
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 This workshop aims to:
 
 - **Broaden data analysis understanding** across the institute
 - **Explain the logic** behind methods, not just how to run tools
+- **Demystify** computational methods
 
 This is an introductory boost — not a comprehensive training program. The goal is to get you started, familiarize you with code, and help you understand the concepts behind common analyses.
 
 ---
 
-## Workshop Structure
+## 📚 Course Structure
 
 ### Week 1: Data Analysis Fundamentals ([CGLab](https://cgenomicslab.org/))
 **Format:** 2-hour sessions daily, Monday–Friday  
@@ -25,7 +26,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 **Time** 10:00-12:00
 
 
-## Schedule
+## 🗓️ Schedule
 
 | Date | Room | Coordination | Topic | Notebook |
 |---------------------|-----|--------------|-------|----------|
@@ -44,7 +45,7 @@ On **Fri May 1st @ 12:30** after the end of week 1 we'll do a **BBQ** 🪵🔥 �
 **Time** 10:00-12:00
 
 
-## Schedule
+## 🗓️ Schedule
 
 | Date | Room | Coordination (TBD) | Topic | Notebook |
 |---------------------|-----|--------------|-------|----------|
@@ -58,7 +59,7 @@ Final schedule to be confirmed with contributing labs/instructors.
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - **No programming experience required**
@@ -76,7 +77,7 @@ All materials are in this repository:
 
 ---
 
-## Technical Setup
+## 💻 Technical Setup
 
 **Recommended:** Miniconda + VSCode (see [docs/SETUP.md](docs/SETUP.md))
 
@@ -86,7 +87,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ---
 
-## Target Audience
+## 👥 Target Audience
 
 - IMBB-FORTH lab members (MSc students, PhD students, postdocs, technicians) with **no programming experience**
 
@@ -94,7 +95,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ---
 
-## Coordination & Contributing Groups
+## 🤝 Course Coordination & Contributing Groups
 
 **Coordination:** [CGLab (Pittis)](https://cgenomicslab.org/)
 
@@ -112,7 +113,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ---
 
-## Additional Resources
+## 🔗 Additional Resources
 
 - [Python lessons repository by Alexandros Kanterakis](https://github.com/kantale/python_lessons) (in Greek/English)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -121,12 +122,12 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ---
 
-## Contact
+## 📧 Contact & Support
 
 **Course Coordinator:** [Alexandros Pittis](https://cgenomicslab.org/#contact) (alexandros.pittis@gmail.com)
 
 ---
 
-## Feedback
+## 📝 Feedback
 
 This is a living course that will improve with your input. After each session, we **welcome feedback on pace, clarity, and content**.
