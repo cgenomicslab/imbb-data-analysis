@@ -35,7 +35,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 | **Thu 30/4/26** - Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
 | **Fri 1/5/26** - Day 5 | Pagiatakis | Alexandros Pittis | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
 
-**Fri May 1st @ 12:00** 🪵🔥 🐙🦞🍤🦪🦐🦀
+**Fri May 1st @ 12:30 after the workshohp** 🪵🔥 🐙🦞🍤🦪🦐🦀
 
 ### Week 2: Specialized Topics in Genomics (IMBB bioinformatics/genomics experts)
 **Format:** 2-hour sessions per topic  
