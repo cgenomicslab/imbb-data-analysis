@@ -18,7 +18,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## Workshop Structure
 
-### Week 1: Fundamentals
+### Week 1: Data Analysis Fundamentals ([CGLab](https://cgenomicslab.org/))
 **Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
 **Tentative dates:** April 27 – May 1  
@@ -35,9 +35,11 @@ This is an introductory boost — not a comprehensive training program. The goal
 | **Thu 30/4/26** - Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
 | **Fri 1/5/26** - Day 5 | Pagiatakis | Alexandros Pittis | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
 
-### Week 2: Specialized Topics
+**Fri May 1st @ 12:00** 🪵🔥 🐙🦞🍤🦪🦐🦀
+
+### Week 2: Specialized Topics in Genomics (IMBB bioinformatics/genomics experts)
 **Format:** 2-hour sessions per topic  
-**Led by:** Institute groups  
+**Level:** Complete beginners  
 **Tentative dates:** May 4 – May 8  
 **Time** 10:00-12:00
 
