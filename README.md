@@ -35,10 +35,10 @@ This is an introductory boost — not a comprehensive training program. The goal
 | **Thu 30/4/26** - Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
 | **Fri 1/5/26** - Day 5 | Pagiatakis | Alexandros Pittis | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
 
-**Fri May 1st @ 12:30 after the workshohp** 🪵🔥 🐙🦞🍤🦪🦐🦀
+On **Fri May 1st @ 12:30** after the end of week 1 we'll do a **BBQ** 🪵🔥 🐙🦞🍤🦪🦐🦀 everyone's welcome.
 
 ### Week 2: Specialized Topics in Genomics (IMBB bioinformatics/genomics experts)
-**Format:** 2-hour sessions per topic  
+**Format:** 2-hour sessions daily, Monday–Friday 
 **Level:** Complete beginners  
 **Tentative dates:** May 4 – May 8  
 **Time** 10:00-12:00
@@ -48,8 +48,8 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 | Date | Room | Coordination (TBD) | Topic | Notebook |
 |---------------------|-----|--------------|-------|----------|
-| **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis | Bulk RNA-seq | day_6_rnaseq.ipynb |
-| **Tue 5/5/26** - Day 7 | ? | Vaso Theodorou/Ethan Baird | single-cell RNA-seq | day_7_scrnaseq.ipynb |
+| **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis | Bulk RNA-seq analysis | day_6_rnaseq.ipynb |
+| **Tue 5/5/26** - Day 7 | TBD | Vaso Theodorou/Ethan Baird | single-cell RNA-seq analysis | day_7_scrnaseq.ipynb |
 | **Wed 6/5/26** - Day 8 | Pagiatakis | Orsalia Hazapis/Ioannis Giannoulakis | ATAC-seq | day_8_atcseq.ipynb |
 | **Thu 7/5/26** - Day 9 | Pagiatakis | instructors | Bring your own data | ? |
 | **Fri 8/5/26** - Day 10 | Pagiatakis (TBC) | instructors | Bring your own data | ? |
