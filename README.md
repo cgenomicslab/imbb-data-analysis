@@ -23,8 +23,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 **Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
 **Tentative dates:** April 27 – May 1  
-**Time** 10:00-12:00
-
+**Time** 10:00-12:00  
 
 ## 🗓️ Schedule
 
@@ -40,11 +39,10 @@ This is an introductory boost — not a comprehensive training program. The goal
 - 🪵🔥 **Friday, May 1st @ 12:30** (after Week 1, weather permitting): BBQ 🐙🦞🍤🦪🦐🦀 — everyone welcome!
 
 ### Week 2: Specialized Topics in Genomics (IMBB bioinformatics/genomics experts)
-**Format:** 2-hour sessions daily, Monday–Friday 
+**Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
 **Tentative dates:** May 4 – May 8  
-**Time** 10:00-12:00
-
+**Time** 10:00-12:00  
 
 ## 🗓️ Schedule
 
