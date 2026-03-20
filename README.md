@@ -48,11 +48,11 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 | Date | Room | Coordination (TBD) | Topic | Notebook |
 |---------------------|-----|--------------|-------|----------|
-| **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis | Bulk RNA-seq analysis | day_6_rnaseq.ipynb |
-| **Tue 5/5/26** - Day 7 | TBD | Vaso Theodorou/Ethan Baird | single-cell RNA-seq analysis | day_7_scrnaseq.ipynb |
-| **Wed 6/5/26** - Day 8 | Pagiatakis | Orsalia Hazapis/Ioannis Giannoulakis | ATAC-seq | day_8_atcseq.ipynb |
-| **Thu 7/5/26** - Day 9 | Pagiatakis | instructors | Bring your own data | ? |
-| **Fri 8/5/26** - Day 10 | Pagiatakis (TBC) | instructors | Bring your own data | ? |
+| **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis / Electra Tsaglioti (Bioinformatics Unit) | Bulk RNA-seq analysis | day_6_rnaseq.ipynb |
+| **Tue 5/5/26** - Day 7 | TBD | Vaso Theodorou / Ethan Baird (Delidakis lab) | single-cell RNA-seq analysis | day_7_scrnaseq.ipynb |
+| **Wed 6/5/26** - Day 8 | Pagiatakis | Orsalia Hazapis (Talianidis lab) | ATAC-seq | day_8_atcseq.ipynb |
+| **Thu 7/5/26** - Day 9 | Pagiatakis | Instructors | Bring your data | ? |
+| **Fri 8/5/26** - Day 10 | Pagiatakis (TBC) | Instructors | Bring your data | ? |
 
 Final schedule to be confirmed with contributing labs/instructors.
 
