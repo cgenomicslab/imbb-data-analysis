@@ -1,5 +1,6 @@
 # IMBB Data Analysis workshop
-## Institute of Molecular Biology and Biotechnology - FORTH, Heraklion, Crete
+## **I**nstitute of **M**olecular **B**iology and **B**iotechnology - FORTH, Heraklion, Crete
+## Mentoring and Career Track Scheme (MCTS)
 
 A **hands-on** introduction to Python programming, data analysis, and computational biology for wet lab biologists.
 
@@ -114,10 +115,11 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ## 🔗 Additional Resources
 
-- [Python lessons repository by Alexandros Kanterakis](https://github.com/kantale/python_lessons) (in Greek/English)
+- [Python lessons repository](https://github.com/kantale/python_lessons) by [Alexandros Kanterakis (ICS-FORTH)](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0?lang=el) (in Greek/English)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html) (single-cell)
 - [Seaborn documentation](https://seaborn.pydata.org/)
+- [Python Graph Gallery](https://python-graph-gallery.com/) (The biggest list of python chart examples)
 
 ---
 
