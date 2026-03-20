@@ -67,7 +67,7 @@ Final schedule to be confirmed with contributing labs/instructors.
 
 ### Before Day 1
 1. **Install Python and tools** — see [docs/SETUP.md](docs/SETUP.md)
-2. **Optional preparation:** [Python for beginners tutorial by Alexandros Kanterakis](https://github.com/kantale/python_lessons)
+2. **Preparation:** [Python for beginners](https://github.com/kantale/python_lessons) by [Alexandros Kanterakis (ICS-FORTH)](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0?lang=el)
 
 ### Course Materials
 All materials are in this repository:
