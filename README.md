@@ -19,7 +19,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## 📚 Course Structure
 
-### Week 1: Data Analysis Fundamentals ([CGLab](https://cgenomicslab.org/))
+### Week 1: Data Analysis Fundamentals ([CGLab](https://cgenomicslab.org/#members))
 **Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
 **Tentative dates:** April 27 – May 1  
