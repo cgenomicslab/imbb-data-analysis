@@ -10,8 +10,8 @@ A **hands-on** introduction to Python programming, data analysis, and computatio
 This workshop aims to:
 
 - **Broaden data analysis understanding** across the institute
+- **Demystify** computational methods  
 - **Explain the logic** behind methods, not just how to run tools
-- **Demystify** computational methods
 
 This is an introductory boost — not a comprehensive training program. The goal is to get you started, familiarize you with code, and help you understand the concepts behind common analyses.
 
