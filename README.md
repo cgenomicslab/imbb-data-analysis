@@ -96,7 +96,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ## 🤝 Course Coordination & Contributing Groups
 
-**Coordination:** [CGLab (Pittis)](https://cgenomicslab.org/)
+**Coordination:** [CGLab (Alexandros Pittis)](https://cgenomicslab.org/)
 
 **Contributing labs (tentative):** 
 - Comparative Genomics (Pittis)
