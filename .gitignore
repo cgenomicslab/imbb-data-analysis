@@ -8,8 +8,17 @@ env/
 venv/
 .ipynb_checkpoints/
 
+# bckp
+*old.md*
+
 # macOS
 .DS_Store
+
+# SVG files
+*.svg
+
+# Jupyter setup
+jupyter_setup/
 
 # IDE
 .vscode/
