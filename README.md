@@ -4,7 +4,7 @@
 
 A **hands-on** introduction to Python programming, data analysis, and computational biology for wet lab biologists.
 
-<img src="./figures/logo.png" align="right" width="180"/>
+<img src="./figures/logo.png" align="left" width="180"/>
 
 ---
 
