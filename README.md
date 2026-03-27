@@ -1,10 +1,10 @@
-<img src="./figures/logo.png" align="right" width="180"/>
-
 # IMBB Data Analysis workshop
 ## **I**nstitute of **M**olecular **B**iology and **B**iotechnology - FORTH, Heraklion, Crete
 ### *Mentoring and Career Track Scheme (MCTS)*
 
 A **hands-on** introduction to Python programming, data analysis, and computational biology for wet lab biologists.
+
+<img src="./figures/logo.png" align="right" width="180"/>
 
 ---
 
