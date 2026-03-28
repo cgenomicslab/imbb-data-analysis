@@ -1,6 +1,7 @@
 # IMBB Data Analysis workshop
 ## **I**nstitute of **M**olecular **B**iology and **B**iotechnology - FORTH, Heraklion, Crete
 ### *Mentoring and Career Track Scheme (MCTS)*
+**(April 27 – May 8, 2026)**
 
 A **hands-on** introduction to Python programming, data analysis, and computational biology for wet lab biologists.
 
@@ -12,7 +13,7 @@ A **hands-on** introduction to Python programming, data analysis, and computatio
 
 This workshop aims to:
 
-- **Broaden data analysis understanding** across the institute
+- **Broaden data analysis understanding** in the institute
 - **Demystify** computational methods  
 - **Explain the logic** behind methods, not just how to run tools
 
@@ -25,7 +26,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 ### Week 1: Data Analysis Fundamentals ([CGLab](https://cgenomicslab.org/#members))
 **Format:** 2-hour sessions daily, Monday–Friday  
 **Level:** Complete beginners  
-**Tentative dates:** April 27 – May 1  
+**Tentative dates:** April 27 – April 30  
 **Time** 10:00-12:00  
 
 ## 🗓️ Schedule
