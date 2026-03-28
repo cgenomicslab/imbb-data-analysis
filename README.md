@@ -129,7 +129,7 @@ This lets you run R notebooks in Jupyter. [RStudio](https://posit.co/download/rs
 
 **Python**
 - [Python Graph Gallery](https://python-graph-gallery.com/) — the biggest collection of Python chart examples
-- [Python lessons (in Greek/English)](https://github.com/kantale/python_lessons) by Alexandros Kanterakis (ICS-FORTH)
+- [Python lessons (in Greek)](https://github.com/kantale/python_lessons) by Alexandros Kanterakis (ICS-FORTH)
 - [Pandas getting started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/) — official pandas introduction
 - [Seaborn documentation](https://seaborn.pydata.org/)
 
