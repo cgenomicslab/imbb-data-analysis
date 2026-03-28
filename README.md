@@ -64,6 +64,8 @@ Materials for Week 2 will be provided by each contributing group. Links will be 
 
 Final schedule to be confirmed with contributing labs/instructors.
 
+> *Programming is learned at the keyboard, not in the classroom.*
+
 ---
 
 ## 🚀 Getting Started
