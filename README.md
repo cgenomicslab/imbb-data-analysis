@@ -105,14 +105,10 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 **Contributing labs (tentative):** 
 - Comparative Genomics (Pittis)
 - Bioinformatics Unit (Andronis)
-- Epigenetics & RNA Biology (Ntini)
 - Genome Integrity (Lavigne)
+- Epigenetics & RNA Biology (Ntini)
 - Stem Cells (Delidakis)
 - Chromatin & Cancer Epigenetics (Talianidis)
-- Dynamic Structural Biology (Gouridis)
-- Dendrites (Poirazi)
-- Systems Neuroscience (Froudarakis)
-- Developmental Morphogenesis (Pavlopoulos)
 
 ---
 
