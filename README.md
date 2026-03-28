@@ -103,7 +103,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 **Coordination:** [CGLab (Alexandros Pittis)](https://cgenomicslab.org/)
 
 **Contributing labs (tentative):** 
-- <a href="https://cgenomicslab.org/" target="_blank">Comparative Genomics</a> [Comparative Genomics](https://cgenomicslab.org/) (Pittis)
+- [Comparative Genomics](https://cgenomicslab.org/) (Pittis)
 - [Bioinformatics Unit](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/) (Andronis)
 - [Genome Integrity](https://imbb.forth.gr/en/research/Matthieu-Lavigne.70/)/[Genomics Facility](https://www.imbb.forth.gr/en/facilities/Genomics-Facility.13/&tabid=Home.84) (Lavigne)
 - [Epigenetics & RNA Biology](https://www.ntinilab.com/) (Ntini)
