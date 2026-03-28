@@ -107,7 +107,7 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 - [Bioinformatics Unit](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/) (Andronis)
 - [Genome Integrity](https://imbb.forth.gr/en/research/Matthieu-Lavigne.70/)/[Genomics Facility](https://www.imbb.forth.gr/en/facilities/Genomics-Facility.13/&tabid=Home.84) (Lavigne)]()
 - [Epigenetics & RNA Biology](https://www.ntinilab.com/) (Ntini)
-- (Stem Cells](https://www.imbb.forth.gr/en/research/Christos-Delidakis.58/) (Delidakis)
+- [Stem Cells](https://www.imbb.forth.gr/en/research/Christos-Delidakis.58/) (Delidakis)
 - [Chromatin & Cancer Epigenetics](https://www.imbb.forth.gr/en/research/Iannis-Talianidis.75/) (Talianidis)
 
 ---
