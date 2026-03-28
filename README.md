@@ -46,7 +46,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 | **Wed 29/4** — Day 3 | Pagiatakis | Alexandros Pittis | Statistics & P-value Logic | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
 | **Thu 30/4** — Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Dimensionality Reduction | [day4_enrichment_dimensionality.ipynb](week1/day4_enrichment_dimensionality.ipynb) |
 
-🪵🔥 **Thursday, April 30** (after Day 4, time TBD): BBQ — everyone welcome!
+🪵🔥 **Thursday, April 30** (after Day 4, time TBD): BBQ 🐙🦞🍤🦪🦐🦀 — everyone welcome!
 
 **Friday, May 1** — Public holiday (no session)
 
@@ -76,7 +76,7 @@ Final schedule to be confirmed with contributing labs/instructors.
 
 ### Before Day 1
 1. **Install Python and tools** — see [docs/SETUP.md](docs/SETUP.md)
-2. **Preparation:** [Python for beginners](https://github.com/kantale/python_lessons) by [Alexandros Kanterakis (ICS-FORTH)](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0?lang=el)
+2. **Go through the preparation notebooks** — see [precourse/](precourse/) (Python basics, and an R introduction for Week 2)
 
 ### Course Materials
 All materials are in this repository:
@@ -91,9 +91,17 @@ All materials are in this repository:
 
 **Recommended:** Miniconda + VSCode (see [docs/SETUP.md](docs/SETUP.md))
 
-Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap-learn
+**Python packages (Week 1):** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap-learn
 
-**Alternatives:** Google Colab (browser-based, no installation) or IMBB JupyterHub (access provided during course).
+**R (Week 2):** Some Week 2 sessions use R. To add R to your conda environment:
+
+```
+conda install -c conda-forge r-base r-irkernel -y
+```
+
+This lets you run R notebooks in Jupyter. [RStudio](https://posit.co/download/rstudio-desktop/) is also an option if you prefer a dedicated R environment.
+
+**Alternatives:** Google Colab (browser-based, no installation) or IMBB JupyterHub (access provided during course, Python and R pre-installed).
 
 ---
 
@@ -121,11 +129,16 @@ Required packages: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap
 
 ## 🔗 Additional Resources
 
-- [Python lessons repository](https://github.com/kantale/python_lessons) by [Alexandros Kanterakis (ICS-FORTH)](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0?lang=el) (in Greek/English)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html) (single-cell)
+**Python**
+- [Python Graph Gallery](https://python-graph-gallery.com/) — the biggest collection of Python chart examples
+- [Python lessons (in Greek/English)](https://github.com/kantale/python_lessons) by Alexandros Kanterakis (ICS-FORTH)
+- [Pandas getting started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/) — official pandas introduction
 - [Seaborn documentation](https://seaborn.pydata.org/)
-- [Python Graph Gallery](https://python-graph-gallery.com/) (The biggest list of python chart examples)
+
+**Genomics**
+- [RNA-seq analysis with DESeq2](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) — the standard bulk RNA-seq tutorial
+- [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html) — single-cell RNA-seq in Python
+- [Single-cell best practices](https://www.sc-best-practices.org/) — comprehensive single-cell analysis guide
 
 ---
 
