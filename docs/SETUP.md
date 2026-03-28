@@ -3,6 +3,8 @@
 
 Please complete these steps **before Day 1** so we can start coding right away.
 
+Steps 1–5 set up Python for Week 1. Step 6 adds R for Week 2 — you can do this later if you prefer.
+
 Choose your operating system and follow the instructions. Google Colab and the course JupyterHub are available as alternatives if you run into problems.
 
 ---
@@ -101,6 +103,30 @@ If you see "Everything works!" — you are ready for Day 1.
 2. Click the green **Code** button → **Download ZIP**
 3. Extract the folder somewhere convenient (e.g., Desktop or Documents)
 4. In VSCode: File → Open Folder → select the extracted folder
+
+### 6. Install R (needed for Week 2)
+
+Some Week 2 sessions use R. You can install R into the same conda environment so it works inside Jupyter — no separate software needed.
+
+In the Anaconda Prompt, make sure your environment is active, then run:
+
+```
+conda activate imbb
+```
+
+```
+conda install -c conda-forge r-base r-irkernel -y
+```
+
+This may take a few minutes. When it finishes, verify:
+
+```
+R --version
+```
+
+If it prints version information, R is ready. You will be able to switch between Python and R kernels inside Jupyter/VSCode.
+
+**Alternative:** If you prefer a dedicated R environment, you can install [RStudio Desktop](https://posit.co/download/rstudio-desktop/) separately. The Week 2 instructors will provide specific R package installation instructions.
 
 ### Windows troubleshooting
 
@@ -252,6 +278,30 @@ macOS comes with git pre-installed. If for some reason it isn't available, you c
 
 Then open VSCode: File → Open Folder → select the course folder.
 
+### 6. Install R (needed for Week 2)
+
+Some Week 2 sessions use R. You can install R into the same conda environment so it works inside Jupyter — no separate software needed.
+
+In Terminal:
+
+```bash
+conda activate imbb
+```
+
+```bash
+conda install -c conda-forge r-base r-irkernel -y
+```
+
+This may take a few minutes. When it finishes, verify:
+
+```bash
+R --version
+```
+
+If it prints version information, R is ready. You will be able to switch between Python and R kernels inside Jupyter/VSCode.
+
+**Alternative:** If you prefer a dedicated R environment, you can install [RStudio Desktop](https://posit.co/download/rstudio-desktop/) separately. The Week 2 instructors will provide specific R package installation instructions.
+
 ### macOS troubleshooting
 
 **"conda: command not found" after installing**
@@ -285,7 +335,7 @@ Keep in mind that Colab sessions are temporary — save your work to Google Driv
 
 ### Course JupyterHub
 
-We will provide access to a JupyterHub server with everything pre-installed. Connection details will be shared before the course. This is a good fallback if your local setup has issues, but we encourage you to set up your own environment so you can keep using it after the course.
+We will provide access to a JupyterHub server with everything pre-installed (Python, R, and all required packages). Connection details will be shared before the course. This is a good fallback if your local setup has issues, but we encourage you to set up your own environment so you can keep using it after the course.
 
 ---
 
