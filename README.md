@@ -41,10 +41,10 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 | Date | Room | Coordination | Topic | Material |
 |------|------|---------------------|-------|----------|
-| **Mon 27/4** — Day 1 | Orfanoudakis | Alexandros Pittis | Python Fundamentals | [notebook](week1/day1_python_fundamentals.ipynb) |
-| **Tue 28/4** — Day 2 | Orfanoudakis | Alexandros Pittis | Plotting & Data Exploration | [notebook](week1/day2_plotting_data_exploration.ipynb) |
-| **Wed 29/4** — Day 3 | Pagiatakis | Alexandros Pittis | Statistics & P-value Logic | [notebook](week1/day3_statistics_pvalue.ipynb) |
-| **Thu 30/4** — Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Dimensionality Reduction | [notebook](week1/day4_enrichment_dimensionality.ipynb) |
+| **Mon 27/4** — Day 1 | Orfanoudakis | Alexandros Pittis | Python Fundamentals | [day1.ipynb](week1/day1_python_fundamentals.ipynb) |
+| **Tue 28/4** — Day 2 | Orfanoudakis | Alexandros Pittis | Plotting & Data Exploration | [day2.ipynb](week1/day2_plotting_data_exploration.ipynb) |
+| **Wed 29/4** — Day 3 | Pagiatakis | Alexandros Pittis | Statistics & P-value Logic | [day3.ipynb](week1/day3_statistics_pvalue.ipynb) |
+| **Thu 30/4** — Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Dimensionality Reduction | [day4.ipynb](week1/day4_enrichment_dimensionality.ipynb) |
 
 🪵🔥 **Thursday, April 30** (after Day 4, time TBD): BBQ 🐙🦞🍤🦪🦐🦀 — everyone welcome!
 
