@@ -23,4 +23,4 @@ Each notebook contains short "Try it" cells where you can test what you just lea
 
 ## Contact
 
-[Alexandros Pittis](mailto:alexandros.pittis@imbb.forth.gr) · [Computational Genomics Lab](https://github.com/cgenomicslab) · IMBB-FORTH, Heraklion, Crete
+[Alexandros Pittis](mailto:alexandros.pittis@imbb.forth.gr) · [Comparative Genomics Lab](https://github.com/cgenomicslab) · IMBB-FORTH, Heraklion, Crete
