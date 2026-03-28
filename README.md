@@ -1,7 +1,7 @@
 # IMBB Data Analysis workshop
 ## **I**nstitute of **M**olecular **B**iology and **B**iotechnology - FORTH, Heraklion, Crete
+## **April 27 – May 8, 2026**
 ### *Mentoring and Career Track Scheme (MCTS)*
-**(April 27 – May 8, 2026)**
 
 A **hands-on** introduction to Python programming, data analysis, and computational biology for wet lab biologists.
 
