@@ -39,7 +39,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## 🗓️ Week 1 Schedule
 
-| Date | Room | Instructor | Topic | Notebook |
+| Date | Room | Coordination | Topic | Notebook |
 |------|------|------------|-------|----------|
 | **Mon 27/4** — Day 1 | Orfanoudakis | Alexandros Pittis | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
 | **Tue 28/4** — Day 2 | Orfanoudakis | Alexandros Pittis | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
@@ -47,8 +47,6 @@ This is an introductory boost — not a comprehensive training program. The goal
 | **Thu 30/4** — Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Dimensionality Reduction | [day4_enrichment_dimensionality.ipynb](week1/day4_enrichment_dimensionality.ipynb) |
 
 🪵🔥 **Thursday, April 30** (after Day 4, time TBD): BBQ 🐙🦞🍤🦪🦐🦀 — everyone welcome!
-
-**Friday, May 1** — Public holiday (no session)
 
 ---
 
