@@ -24,39 +24,45 @@ This is an introductory boost — not a comprehensive training program. The goal
 ## 📚 Course Structure
 
 ### Week 1: Data Analysis Fundamentals ([CGLab](https://cgenomicslab.org/#members))
-**Format:** 2-hour sessions daily, Monday–Friday  
+**Format:** 2-hour sessions daily, Monday–Thursday  
 **Level:** Complete beginners  
-**Tentative dates:** April 27 – April 30  
-**Time** 10:00-12:00  
-
-## 🗓️ Schedule
-
-| Date | Room | Coordination | Topic | Notebook |
-|---------------------|-----|--------------|-------|----------|
-| **Mon 27/4/26** - Day 1 | Orfanoudakis | Alexandros Pittis | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
-| **Tue 28/4/26** - Day 2 | Orfanoudakis | Alexandros Pittis | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
-| **Wed 29/4/26** - Day 3 | Pagiatakis | Alexandros Pittis | Statistics & P-value Logic | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
-| **Thu 30/4/26** - Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Expression Analysis | [day4_enrichment_expression.ipynb](week1/day4_enrichment_expression.ipynb) |
-| **Fri 1/5/26** - Day 5 | Pagiatakis | Alexandros Pittis | Dimensionality Reduction | [day5_dimensionality_reduction.ipynb](week1/day5_dimensionality_reduction.ipynb) |
-
-
-- 🪵🔥 **Friday, May 1st @ 12:30** (after Week 1, weather permitting): BBQ 🐙🦞🍤🦪🦐🦀 — everyone welcome!
+**Dates:** April 27 – April 30  
+**Time:** 10:00–12:00  
 
 ### Week 2: Specialized Topics in Genomics (IMBB bioinformatics/genomics experts)
-**Format:** 2-hour sessions daily, Monday–Friday  
+**Format:** 2-hour sessions daily, Monday–Thursday  
 **Level:** Complete beginners  
-**Tentative dates:** May 4 – May 8  
-**Time** 10:00-12:00  
+**Dates:** May 4 – May 8  
+**Time:** 10:00–12:00  
 
-## 🗓️ Schedule
+---
 
-| Date | Room | Coordination (TBD) | Topic | Notebook |
-|---------------------|-----|--------------|-------|----------|
-| **Mon 4/5/26** - Day 6 | Pagiatakis | Christos Andronis / Electra Tsaglioti (Bioinformatics Unit) | Bulk RNA-seq analysis | day_6_rnaseq.ipynb |
-| **Tue 5/5/26** - Day 7 | TBD | Vaso Theodorou / Ethan Baird (Delidakis lab) | single-cell RNA-seq analysis | day_7_scrnaseq.ipynb |
-| **Wed 6/5/26** - Day 8 | Pagiatakis | Orsalia Hazapis (Talianidis lab) | ATAC-seq | day_8_atcseq.ipynb |
-| **Thu 7/5/26** - Day 9 | Pagiatakis | Instructors | Bring your data | ? |
-| **Fri 8/5/26** - Day 10 | Pagiatakis (TBC) | Instructors | Bring your data | ? |
+## 🗓️ Week 1 Schedule
+
+| Date | Room | Instructor | Topic | Notebook |
+|------|------|------------|-------|----------|
+| **Mon 27/4** — Day 1 | Orfanoudakis | Alexandros Pittis | Python Fundamentals | [day1_python_fundamentals.ipynb](week1/day1_python_fundamentals.ipynb) |
+| **Tue 28/4** — Day 2 | Orfanoudakis | Alexandros Pittis | Plotting & Data Exploration | [day2_plotting_data_exploration.ipynb](week1/day2_plotting_data_exploration.ipynb) |
+| **Wed 29/4** — Day 3 | Pagiatakis | Alexandros Pittis | Statistics & P-value Logic | [day3_statistics_pvalue.ipynb](week1/day3_statistics_pvalue.ipynb) |
+| **Thu 30/4** — Day 4 | Pagiatakis | Alexandros Pittis | Enrichment & Dimensionality Reduction | [day4_enrichment_dimensionality.ipynb](week1/day4_enrichment_dimensionality.ipynb) |
+
+🪵🔥 **Thursday, April 30** (after Day 4, time TBD): BBQ — everyone welcome!
+
+**Friday, May 1** — Public holiday (no session)
+
+---
+
+## 🗓️ Week 2 Schedule
+
+| Date | Room | Coordination (TBD) | Topic |
+|------|------|---------------------|-------|
+| **Mon 4/5** — Day 5 | Pagiatakis | Christos Andronis / Electra Tsaglioti (Bioinformatics Unit) | Bulk RNA-seq analysis |
+| **Tue 5/5** — Day 6 | TBD | Vaso Theodorou / Ethan Baird (Delidakis lab) | Single-cell RNA-seq analysis |
+| **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis (Talianidis lab) | ATAC-seq |
+| **Thu 7/5** — Day 8 | Pagiatakis | Instructors | Bring your data |
+| **Fri 8/5** — Day 9 | Pagiatakis (TBC) | Instructors | Bring your data |
+
+Materials for Week 2 will be provided by each contributing group. Links will be added here as they become available.
 
 Final schedule to be confirmed with contributing labs/instructors.
 
@@ -74,7 +80,8 @@ Final schedule to be confirmed with contributing labs/instructors.
 
 ### Course Materials
 All materials are in this repository:
-- **week1/** — Jupyter notebooks for Week 1 (5 days)
+- **week1/** — Jupyter notebooks for Week 1 (4 days)
+- **precourse/** — Self-paced preparation notebooks (Python and R basics)
 - **data/** — Datasets used throughout the course
 - **docs/** — Setup instructions
 
