@@ -81,7 +81,7 @@ Final schedule to be confirmed with contributing labs/instructors.
 ### Course Materials
 All materials are in this repository:
 - **week1/** — Jupyter notebooks for Week 1 (4 days)
-- **precourse/** — Self-paced preparation notebooks (Python and R basics)
+- **precourse/** — Preparation notebooks (Python and R basics)
 - **data/** — Datasets used throughout the course
 - **docs/** — Setup instructions
 
