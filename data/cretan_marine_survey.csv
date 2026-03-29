@@ -1,0 +1,72 @@
+site,region,coast,substrate,night_survey,water_temp,depth,visibility,posidonia_cover,umbrellas_per_100m,distance_to_port_km,fireworms_per_m2,anemones_per_m2,scorpionfish,lionfish,cornetfish,seahorses,sea_urchins_per_m2,seashells_per_m2,fluor_fireworms,fluor_anemones,fluor_scorpionfish,fluor_lionfish
+Kissamos,Chania,north,sandy,False,22.8,3.4,8.2,16.0,23,10.7,0.6,0.5,1,1,1,0,4.0,9.3,,,,
+Falasarna,Chania,north,sandy,False,24.3,3.8,2.2,17.0,25,7.4,0.6,0.4,0,1,1,1,4.2,10.1,,,,
+Kolymvari,Chania,north,rocky,True,23.6,11.1,6.2,0.0,9,5.0,3.1,2.2,5,1,2,0,3.6,0.0,3.1,1.5,1.3,0.6
+Platanias,Chania,north,sandy,True,22.9,3.1,7.4,37.0,15,11.7,0.9,0.7,1,1,1,1,4.3,11.6,0.4,0.2,0.9,0.6
+Agioi Apostoloi,Chania,north,sandy,False,23.0,4.0,6.5,37.0,4,6.6,0.3,0.4,0,1,1,2,4.0,5.1,,,,
+Chania Harbor,Chania,north,rocky,True,23.0,12.1,11.3,0.0,17,20.5,2.3,2.5,3,1,1,0,3.2,3.5,3.1,1.0,1.4,0.5
+Stavros,Chania,north,sandy,False,25.9,3.3,9.0,47.0,17,6.9,0.4,0.5,0,1,1,2,4.3,4.4,,,,
+Tersanas,Chania,north,mixed,False,21.7,7.6,7.0,44.0,0,2.4,2.3,1.1,1,1,1,2,3.9,-0.0,,,,
+Kalathas,Chania,north,mixed,False,26.4,5.2,5.9,11.0,15,1.0,1.0,1.4,3,2,1,0,5.5,4.6,,,,
+Marathi,Chania,north,sandy,True,23.3,5.3,10.4,36.0,17,1.2,0.4,0.6,1,2,2,1,4.5,8.2,0.8,0.5,0.3,1.7
+Almyrida,Chania,north,sandy,True,23.7,3.5,9.1,47.0,9,35.0,1.1,0.6,0,1,1,2,3.8,7.6,1.1,1.0,0.0,0.4
+Kalives,Chania,north,sandy,False,23.7,3.8,9.6,34.0,15,14.6,0.6,0.5,1,1,1,1,6.8,9.3,,,,
+Georgioupoli,Chania,north,sandy,False,22.6,3.5,7.4,36.0,11,26.3,1.3,0.4,0,0,2,1,3.5,9.7,,,,
+Seitan Limania,Chania,north,rocky,False,21.4,8.9,11.6,3.0,4,0.7,2.5,2.1,4,2,2,0,4.4,5.3,,,,
+Balos,Chania,north,sandy,True,22.0,3.1,6.7,26.0,15,8.1,1.3,0.3,1,2,1,1,3.7,8.7,0.7,0.0,0.7,0.7
+Episkopi,Rethymno,north,sandy,False,21.6,3.9,6.4,11.0,26,9.9,0.3,0.8,1,0,0,0,6.2,12.4,,,,
+Panormos,Rethymno,north,mixed,False,24.5,5.2,8.8,5.0,17,11.2,1.0,1.1,0,0,0,0,3.7,6.8,,,,
+Bali,Rethymno,north,mixed,False,21.2,4.7,8.7,10.0,7,4.4,1.6,0.9,2,0,0,0,3.6,5.8,,,,
+Rethymno Beach,Rethymno,north,sandy,False,23.1,4.8,8.5,29.0,17,1.5,0.5,0.9,2,1,3,1,3.8,11.1,,,,
+Adelianos Kampos,Rethymno,north,sandy,True,22.5,6.9,5.9,37.0,11,5.4,0.5,0.6,2,3,3,2,5.6,7.3,1.2,0.3,0.9,0.2
+Skaleta,Rethymno,north,sandy,True,23.2,3.0,8.3,32.0,17,7.8,0.7,0.9,1,0,0,1,3.8,9.0,0.6,0.7,0.7,0.2
+Fodele,Heraklion,north,mixed,False,23.8,4.2,6.5,20.0,6,21.9,1.4,0.9,2,2,1,1,4.0,3.3,,,,
+Agia Pelagia,Heraklion,north,mixed,False,27.2,4.4,10.2,24.0,9,10.7,1.2,1.6,2,2,1,2,3.6,6.2,,,,
+Lygaria,Heraklion,north,mixed,True,22.2,5.5,8.6,4.0,14,5.1,1.1,1.0,0,1,1,0,5.9,6.3,0.7,0.7,0.1,0.1
+Amoudara,Heraklion,north,sandy,True,21.9,3.4,9.0,41.0,15,13.0,0.2,0.3,0,2,2,2,4.8,8.7,0.9,0.0,0.7,0.4
+Karteros,Heraklion,north,sandy,False,26.1,8.1,7.5,25.0,20,7.8,0.4,0.7,0,1,1,0,4.3,8.3,,,,
+Kokkini Hani,Heraklion,north,sandy,False,24.9,3.2,3.4,19.0,25,0.6,0.5,0.8,0,1,1,0,3.8,10.6,,,,
+Gouves,Heraklion,north,sandy,False,23.4,3.1,6.2,16.0,26,3.3,0.4,0.3,0,1,1,0,3.9,10.6,,,,
+Hersonissos,Heraklion,north,rocky,True,21.9,6.5,13.9,0.0,27,2.5,2.5,2.0,3,2,2,0,3.6,0.7,2.7,1.0,1.0,0.1
+Stalis,Heraklion,north,sandy,False,27.3,4.7,11.4,32.0,17,4.1,0.7,0.4,0,2,2,1,4.1,10.8,,,,
+Malia,Heraklion,north,sandy,False,24.6,6.2,10.5,37.0,19,4.3,0.9,0.4,0,1,1,2,4.6,7.8,,,,
+Sissi,Lassithi,north,mixed,True,21.2,5.7,12.2,45.0,0,1.3,1.4,1.0,0,0,3,2,4.1,4.5,0.5,-0.0,0.0,0.8
+Milatos,Lassithi,north,mixed,False,24.1,5.1,10.1,31.0,2,3.4,1.7,0.9,2,1,1,2,3.2,4.7,,,,
+Elounda,Lassithi,north,mixed,True,26.0,4.9,7.8,29.0,7,3.7,1.2,0.9,1,0,0,1,3.4,7.4,1.1,1.1,0.6,0.9
+Plaka,Lassithi,north,rocky,False,23.5,5.9,8.8,2.0,8,2.7,3.3,2.1,3,1,1,0,2.6,1.7,,,,
+Agios Nikolaos,Lassithi,north,mixed,False,23.5,5.1,12.4,22.0,7,11.3,1.3,1.1,2,1,1,2,4.0,4.5,,,,
+Istro,Lassithi,north,sandy,True,22.8,4.3,8.6,42.0,14,1.9,0.3,0.7,0,1,1,2,4.0,9.9,0.4,0.4,-0.0,0.3
+Mohlos,Lassithi,north,rocky,False,23.8,6.5,10.8,2.0,13,7.3,4.8,1.9,4,1,2,0,2.1,1.5,,,,
+Siteia,Lassithi,north,sandy,False,23.0,3.3,7.7,26.0,23,20.9,0.5,0.8,0,1,1,1,4.8,7.5,,,,
+Vai,Lassithi,north,sandy,False,23.5,3.9,6.5,49.0,7,5.8,0.2,0.4,0,1,1,3,4.3,9.3,,,,
+Elafonissi,Chania,south,sandy,True,26.3,7.2,12.2,18.0,19,15.3,0.3,0.8,0,2,2,1,3.9,8.9,0.5,1.9,0.7,0.9
+Kedrodasos,Chania,south,sandy,True,26.1,3.6,12.2,44.0,12,17.8,0.7,1.4,0,2,2,3,4.1,6.7,1.1,1.5,0.1,0.4
+Paleochora,Chania,south,mixed,True,23.5,4.0,7.7,34.0,0,1.1,1.2,1.3,2,2,3,1,4.3,3.8,1.0,0.9,1.0,1.1
+Sougia,Chania,south,rocky,False,25.6,5.9,12.3,1.0,10,1.5,2.4,2.0,3,2,1,0,5.7,4.3,,,,
+Agia Roumeli,Chania,south,rocky,False,25.9,5.9,10.9,0.0,20,6.9,2.7,1.9,1,2,2,0,4.7,2.2,,,,
+Loutro,Chania,south,rocky,False,22.1,5.8,13.6,0.0,18,4.9,3.2,2.1,3,3,2,0,3.6,2.4,,,,
+Glyka Nera,Chania,south,rocky,False,26.2,7.2,10.9,0.0,8,0.9,2.7,2.1,3,2,4,0,3.8,4.0,,,,
+Marmara,Chania,south,rocky,False,24.5,7.5,6.8,13.0,0,1.0,2.9,2.4,4,2,3,0,3.4,6.0,,,,
+Sfakia,Chania,south,rocky,True,27.2,8.4,15.8,0.0,26,2.1,3.7,2.6,5,3,2,0,2.4,3.5,3.2,2.9,1.2,0.6
+Frangokastello,Chania,south,mixed,True,24.5,4.1,9.3,24.0,8,9.2,1.1,1.0,4,1,1,1,3.7,7.4,0.0,1.2,1.2,0.3
+Gavdos Sarakiniko,Chania,south,sandy,False,23.7,3.3,10.4,36.0,13,4.8,0.5,0.9,0,2,1,2,4.5,6.7,,,,
+Plakias,Rethymno,south,mixed,False,24.4,9.6,13.0,0.0,28,12.0,1.5,1.1,3,1,1,0,3.6,2.2,,,,
+Damnoni,Rethymno,south,sandy,False,23.9,3.0,14.6,80.0,0,10.5,0.2,0.3,1,1,1,5,4.4,7.6,,,,
+Preveli,Rethymno,south,mixed,False,24.6,4.9,9.3,4.0,17,21.9,2.3,0.8,0,1,1,0,3.6,2.5,,,,
+Agia Galini,Rethymno,south,mixed,True,24.8,4.1,7.3,0.0,26,3.5,1.4,1.0,0,1,1,0,3.4,2.4,1.7,0.6,0.0,0.3
+Triopetra,Rethymno,south,sandy,False,26.2,4.6,8.1,22.0,20,4.1,1.0,0.5,0,1,2,1,3.7,12.9,,,,
+Agios Pavlos,Rethymno,south,rocky,True,25.2,13.9,14.4,13.0,4,9.5,2.2,2.5,4,2,1,0,3.0,0.1,2.9,2.1,1.9,0.3
+Matala,Heraklion,south,mixed,False,22.9,4.9,6.6,0.0,27,3.5,1.4,1.0,1,2,2,0,3.5,5.9,,,,
+Kokkinos Pyrgos,Heraklion,south,sandy,False,23.6,3.7,7.0,10.0,31,7.4,0.5,0.8,2,2,2,0,5.7,10.4,,,,
+Lentas,Heraklion,south,rocky,False,23.5,7.1,10.1,28.0,0,21.5,3.4,1.9,3,3,2,0,3.2,2.3,,,,
+Tsoutsouras,Heraklion,south,mixed,True,24.3,5.7,10.3,36.0,1,0.9,1.3,1.8,3,2,2,2,3.7,4.6,0.9,0.6,0.9,0.5
+Keratokampos,Heraklion,south,sandy,False,24.4,4.4,8.7,19.0,22,3.4,0.3,0.5,1,2,2,1,5.5,9.4,,,,
+Kommos,Heraklion,south,sandy,True,26.8,4.3,10.5,48.0,7,29.5,0.5,0.4,3,2,3,2,3.9,9.1,0.4,1.9,0.8,1.3
+Myrtos,Lassithi,south,rocky,False,27.3,5.7,8.9,0.0,13,11.9,2.3,2.3,1,2,2,0,3.8,0.0,,,,
+Ierapetra,Lassithi,south,sandy,False,23.8,11.9,10.7,27.0,21,8.3,0.7,0.9,1,2,2,1,4.9,7.1,,,,
+Koutsounari,Lassithi,south,sandy,True,23.4,4.5,12.1,46.0,11,9.2,0.8,0.7,0,2,2,2,4.0,9.2,1.3,1.3,0.0,0.3
+Makry Gialos,Lassithi,south,sandy,True,24.0,3.4,12.2,65.0,0,9.4,0.4,0.4,1,2,2,4,4.1,7.4,0.1,1.0,0.9,0.3
+Agia Fotia,Lassithi,south,rocky,False,23.4,9.1,13.2,10.0,4,17.7,2.4,2.4,4,2,3,0,3.2,1.8,,,,
+Xerokampos,Lassithi,south,rocky,True,24.5,5.8,12.9,0.0,13,0.6,2.5,1.9,3,3,2,0,3.2,0.0,2.2,1.4,2.4,0.4
+Kato Zakros,Lassithi,south,rocky,False,23.9,6.1,10.5,0.0,7,4.5,2.4,2.1,2,2,1,0,2.9,1.8,,,,
+Koufonisi,Lassithi,south,sandy,False,22.3,4.1,11.5,19.0,24,2.2,0.3,0.5,2,2,2,0,4.3,10.9,,,,
