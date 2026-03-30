@@ -142,7 +142,7 @@ This lets you run R notebooks in Jupyter. [RStudio](https://posit.co/download/rs
 
 ## 📧 Contact & Support
 
-**Course Coordinator:** [Alexandros Pittis](https://cgenomicslab.org/#contact) `alexandros.pittis@gmail.com`
+**Course Coordinator:** [Alexandros Pittis](https://cgenomicslab.org/#contact) `alexandros.pittis@gmail.com` · [Comparative Genomics Lab](https://github.com/cgenomicslab) @ IMBB-FORTH, Heraklion, Crete
 
 ---
 

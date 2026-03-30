@@ -1,6 +1,6 @@
 # Python & R Crash Course
 
-A self-paced introduction to Python and R for people with no prior programming experience. Go through these notebooks before the course to familiarize yourself with the basics.
+A brief introduction to Python and R for people with no prior programming experience. Go through these notebooks before the course to familiarize yourself with the basics. Download them and clear all cell outputs to work through them step-by-step.
 
 ## Notebooks
 
