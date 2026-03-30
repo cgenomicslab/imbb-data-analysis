@@ -39,7 +39,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## 🗓️ Week 1 Schedule
 
-| Date | Room | Coordination | Topic | Notebook |
+| Date | Room | Coordination | Topic | NB |
 |------|------|---------------------|-------|----------|
 | **Mon 27/4** — Day 1 | Orfanoudakis | Alexandros Pittis | Python Fundamentals | [1](week1/day1_python_fundamentals.ipynb) |
 | **Tue 28/4** — Day 2 | Orfanoudakis | Alexandros Pittis | Plotting & Data Exploration | [2](week1/day2_plotting_data_exploration.ipynb) |
