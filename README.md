@@ -58,7 +58,6 @@ This is an introductory boost — not a comprehensive training program. The goal
 | **Tue 5/5** — Day 6 | TBD | Vaso Theodorou / Ethan Baird (Delidakis lab) | Single-cell RNA-seq analysis | scrna-seq.ipynb |
 | **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis (Talianidis lab) | ATAC-seq | atac_seq.ipynb |
 | **Thu 7/5** — Day 8 | Pagiatakis | Instructors | Bring your data |  |
-| **Fri 8/5** — Day 9 | Pagiatakis (TBC) | Instructors | Bring your data |  |
 
 Materials for Week 2 will be provided by each contributing group. Links will be added here as they become available.
 
@@ -107,7 +106,7 @@ This lets you run R notebooks in Jupyter. [RStudio](https://posit.co/download/rs
 
 ## 👥 Target Audience
 
-- IMBB-FORTH lab members (MSc students, PhD students, postdocs, technicians) with **no programming experience**
+- IMBB-FORTH lab members (MSc students, PhD students, Postdocs, Technicians) with **no programming experience**
 
 **Expected participants:** Up to 40
 
