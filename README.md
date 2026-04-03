@@ -19,6 +19,8 @@ This workshop aims to:
 
 This is an introductory boost — not a comprehensive training program. The goal is to get you started, familiarize you with code, and help you understand the concepts behind common analyses.
 
+> *You'll learn how to code by coding yourself, not in the classroom.*
+
 ---
 
 ## 📚 Course Structure
@@ -66,8 +68,6 @@ Final schedule to be confirmed with contributing labs/instructors.
 ---
 
 ## 🚀 Getting Started
-
-> *Programming is learned at the keyboard, not in the classroom.*
 
 ### Prerequisites
 - **No programming experience required**
