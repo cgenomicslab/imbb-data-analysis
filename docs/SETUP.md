@@ -33,6 +33,22 @@ conda --version
 
 If it prints a version number (e.g., `conda 24.x.x`), the installation worked.
 
+Recent versions of conda (26+) require you to accept the Terms of Service before you can install packages. Run these three commands (press Enter after each):
+
+```
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+```
+
+```
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+```
+
+```
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/msys2
+```
+
+If your version of conda doesn't recognize the `tos` command, you can skip this — it means you have an older version that doesn't need it.
+
 **Important:** From now on, always use this **Anaconda Prompt** when working on the course — not the regular Command Prompt or PowerShell.
 
 ### 2. Create a course environment
@@ -187,6 +203,18 @@ If it prints a version number, the installation worked. If it says "command not 
 ```
 
 Then close and reopen Terminal.
+
+Recent versions of conda (26+) require you to accept the Terms of Service before you can install packages. Run these two commands:
+
+```bash
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+```
+
+```bash
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+```
+
+If your version of conda doesn't recognize the `tos` command, you can skip this — it means you have an older version that doesn't need it.
 
 You can delete the installer file:
 
