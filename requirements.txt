@@ -1,0 +1,12 @@
+# Python version (for reference; not enforced by pip)
+#python==3.11
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+notebook
+jupyter
+ipykernel
