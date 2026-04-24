@@ -54,11 +54,11 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## 🗓️ Week 2 Schedule
 
-| Date | Room | Coordination (TBD) | Topic | Notebook |
+| Date | Room | Coordination (TBD) | Topic | Material |
 |------|------|---------------------|-------|----------|
-| **Mon 4/5** — Day 5 | Pagiatakis | Christos Andronis / Electra Tsaglioti (Bioinformatics Unit) | Bulk RNA-seq analysis | rna_seq.ipynb |
-| **Tue 5/5** — Day 6 | TBD | Vaso Theodorou / Ethan Baird (Delidakis lab) | Single-cell RNA-seq analysis | scrna-seq.ipynb |
-| **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis (Talianidis lab) | ATAC-seq | atac_seq.ipynb |
+| **Mon 4/5** — Day 5 | Pagiatakis | Christos Andronis / Electra Tsaglioti (Bioinformatics Unit) | Bulk RNA-seq analysis | [link](https://github.com/chandron/IMBB-rnaseq-workshop-1day) |
+| **Tue 5/5** — Day 6 | TBD | Vaso Theodorou / Ethan Baird (Delidakis lab) | Single-cell RNA-seq analysis | link |
+| **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis (Talianidis lab) | ATAC-seq | link |
 | **Thu 7/5** — Day 8 | Pagiatakis | Instructors | Bring your data |  |
 
 Materials for Week 2 will be provided by each contributing group. Links will be added here as they become available.
