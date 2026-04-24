@@ -122,9 +122,21 @@ If you see "Everything works!" — you are ready for Day 1.
 
 ### 6. Install R (needed for Week 2)
 
-Some Week 2 sessions use R. You can install R into the same conda environment so it works inside Jupyter — no separate software needed.
+Some Week 2 sessions use R. The recommended option is **RStudio Desktop** — a dedicated R environment that works out of the box.
 
-In the Anaconda Prompt, make sure your environment is active, then run:
+**Option A — RStudio Desktop (recommended)**
+
+1. Download and install R from [https://cran.r-project.org](https://cran.r-project.org) (choose "Download R for Windows" → "base").
+2. Download and install [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
+3. Open RStudio. If it opens without errors, R is ready.
+
+The Week 2 instructors will provide specific R package installation instructions.
+
+**Option B — R inside Jupyter/VSCode (via conda)**
+
+If you prefer to run R notebooks in the same environment as Python, you can install R into your conda environment:
+
+In the Anaconda Prompt:
 
 ```
 conda activate imbb
@@ -134,15 +146,17 @@ conda activate imbb
 conda install -c conda-forge r-base r-irkernel -y
 ```
 
-This may take a few minutes. When it finishes, verify:
+This may take a few minutes. When it finishes, register the R kernel and verify:
+
+```
+R -e "IRkernel::installspec()"
+```
 
 ```
 R --version
 ```
 
-If it prints version information, R is ready. You will be able to switch between Python and R kernels inside Jupyter/VSCode.
-
-**Alternative:** If you prefer a dedicated R environment, you can install [RStudio Desktop](https://posit.co/download/rstudio-desktop/) separately. The Week 2 instructors will provide specific R package installation instructions.
+If it prints version information, R is ready. You will be able to switch between Python and R kernels inside Jupyter/VSCode. If the R kernel doesn't appear, restart VSCode.
 
 ### Windows troubleshooting
 
@@ -308,7 +322,19 @@ Then open VSCode: File → Open Folder → select the course folder.
 
 ### 6. Install R (needed for Week 2)
 
-Some Week 2 sessions use R. You can install R into the same conda environment so it works inside Jupyter — no separate software needed.
+Some Week 2 sessions use R. The recommended option is **RStudio Desktop** — a dedicated R environment that works out of the box.
+
+**Option A — RStudio Desktop (recommended)**
+
+1. Download and install R from [https://cran.r-project.org](https://cran.r-project.org) (choose "Download R for macOS" and pick the installer matching your Mac — Apple Silicon or Intel).
+2. Download and install [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
+3. Open RStudio. If it opens without errors, R is ready.
+
+The Week 2 instructors will provide specific R package installation instructions.
+
+**Option B — R inside Jupyter/VSCode (via conda)**
+
+If you prefer to run R notebooks in the same environment as Python, you can install R into your conda environment:
 
 In Terminal:
 
@@ -320,15 +346,17 @@ conda activate imbb
 conda install -c conda-forge r-base r-irkernel -y
 ```
 
-This may take a few minutes. When it finishes, verify:
+This may take a few minutes. When it finishes, register the R kernel and verify:
+
+```bash
+R -e "IRkernel::installspec()"
+```
 
 ```bash
 R --version
 ```
 
-If it prints version information, R is ready. You will be able to switch between Python and R kernels inside Jupyter/VSCode.
-
-**Alternative:** If you prefer a dedicated R environment, you can install [RStudio Desktop](https://posit.co/download/rstudio-desktop/) separately. The Week 2 instructors will provide specific R package installation instructions.
+If it prints version information, R is ready. You will be able to switch between Python and R kernels inside Jupyter/VSCode. If the R kernel doesn't appear, restart VSCode.
 
 ### macOS troubleshooting
 
