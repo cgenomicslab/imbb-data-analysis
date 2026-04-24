@@ -5,6 +5,5 @@ seaborn
 scipy
 scikit-learn
 umap-learn
-notebook
-jupyter
+jupyterlab
 ipykernel
