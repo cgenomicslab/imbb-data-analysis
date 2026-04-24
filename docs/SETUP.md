@@ -14,7 +14,7 @@ Download and run the installer from: https://www.python.org/downloads/release/py
 - ✅ Check **"Add Python to PATH"**
 - Click **Install Now**
 
-Verify in Command Prompt (`Win+R` → type `cmd` → Enter):
+Verify in Command Prompt (`Win+R` —> type `cmd` —> Enter):
 
 ```
 python --version
