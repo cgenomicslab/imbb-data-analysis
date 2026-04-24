@@ -66,7 +66,7 @@ conda activate imbb
 Your prompt should now start with `(imbb)` instead of `(base)`. Now install the packages:
 
 ```
-conda install numpy pandas matplotlib seaborn scipy scikit-learn jupyter -y
+conda install numpy pandas matplotlib seaborn scipy scikit-learn jupyter ipykernel -y
 ```
 
 ```
@@ -253,7 +253,7 @@ conda activate imbb
 Your prompt should now start with `(imbb)` instead of `(base)`. Install the packages:
 
 ```bash
-conda install numpy pandas matplotlib seaborn scipy scikit-learn jupyter -y
+conda install numpy pandas matplotlib seaborn scipy scikit-learn jupyter ipykernel -y
 ```
 
 ```bash
