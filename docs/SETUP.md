@@ -8,7 +8,8 @@ Complete steps 1–4 before Day 1. Step 5 (R) is for Week 2 — you can do it la
 
 ## 1. Install Python
 
-Download and run the installer from: https://www.python.org/downloads/release/python-31111/
+Download and run the installer from: https://www.python.org/downloads/release/python-3119/
+
 
 - ✅ Check **"Add Python to PATH"**
 - Click **Install Now**
@@ -73,7 +74,7 @@ IRkernel::installspec()
 
 ## 1. Install Python
 
-Download the macOS installer from: https://www.python.org/downloads/release/python-31111/
+Download the macOS installer from: https://www.python.org/downloads/release/python-3119/
 
 - **Apple Silicon (M1/M2/M3/M4):** universal2 installer
 - **Intel Mac:** Intel installer
