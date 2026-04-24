@@ -41,7 +41,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## 🗓️ Week 1 Schedule
 
-| Date | Room | Coordination | Topic | NB |
+| Date | Room | Coordination | Topic | Material |
 |------|------|---------------------|-------|----------|
 | **Mon 27/4** — Day 1 | Orfanoudakis | [Alexandros Pittis](https://cgenomicslab.org/members/pittis/) | Python Fundamentals | [day1](week1/day1_python_fundamentals.ipynb) |
 | **Tue 28/4** — Day 2 | Orfanoudakis | [Alexandros Pittis](https://cgenomicslab.org/members/pittis/) | Plotting & Data Exploration | [day2](week1/day2_plotting_data_exploration.ipynb) |
@@ -54,7 +54,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 ## 🗓️ Week 2 Schedule
 
-| Date | Room | Coordination (TBD) | Topic | Material |
+| Date | Room | Coordination | Topic | Material |
 |------|------|---------------------|-------|----------|
 | **Mon 4/5** — Day 5 | Pagiatakis | [Christos Andronis](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/&tabid=147&mid=Christos-Andronis.415) / Electra Tsaglioti ([Bioinformatics Unit](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/)) | Bulk RNA-seq analysis | [link](https://github.com/chandron/IMBB-rnaseq-workshop-1day) |
 | **Tue 5/5** — Day 6 | TBD | Vaso Theodorou / Ethan Baird ([Delidakis lab](https://www.imbb.forth.gr/en/research/Christos-Delidakis.58/)) | Single-cell RNA-seq analysis | link |
