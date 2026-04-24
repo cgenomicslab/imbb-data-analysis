@@ -23,7 +23,7 @@ python --version
 ## 2. Download course materials
 
 - Go to https://github.com/cgenomicslab/imbb-data-analysis
-- Click the green **Code** button → **Download ZIP**
+- Click the green **Code** button —> **Download ZIP**
 - Extract the folder (e.g., in Documents)
 - Open Command Prompt inside the **imbb-data-analysis** folder (type `cmd` in the address bar and press Enter)
 
@@ -79,9 +79,9 @@ Download the macOS installer from: https://www.python.org/downloads/release/pyth
 - **Apple Silicon (M1/M2/M3/M4):** universal2 installer
 - **Intel Mac:** Intel installer
 
-(Apple menu → About This Mac to check.)
+(Apple menu —> About This Mac to check.)
 
-Verify in Terminal (`Cmd+Space` → type "Terminal"):
+Verify in Terminal (`Cmd+Space` —> type "Terminal"):
 
 ```
 python3 --version
@@ -139,7 +139,7 @@ IRkernel::installspec()
 
 # Alternatives
 
-- **Google Colab** (no installation): Go to https://colab.research.google.com → File → Open Notebook → GitHub tab → paste `https://github.com/cgenomicslab/imbb-data-analysis`
+- **Google Colab** (no installation): Go to https://colab.research.google.com —> File —> Open Notebook —> GitHub tab —> paste `https://github.com/cgenomicslab/imbb-data-analysis`
 - **Course [JupyterHub](https://jupyter.cgenomicslab.org/)**: Access details will be shared before the course — everything is pre-installed
 - **VSCode**: Install [VSCode](https://code.visualstudio.com) with the Python and Jupyter extensions if you prefer a code editor over Jupyter in the browser
 
