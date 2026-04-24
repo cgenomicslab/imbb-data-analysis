@@ -65,7 +65,7 @@ Materials for Week 2 will be provided by each contributing group. Links will be 
 
 ---
 
-## 🙌 Teaching Assistants
+## 🙌 Instructors
 
 - [Maria Diamantaki](https://eflab.org/people/) — Froudarakis lab
 - [Yiannis Pyrris](https://cgenomicslab.org/members/pyrris/) — CGLab
