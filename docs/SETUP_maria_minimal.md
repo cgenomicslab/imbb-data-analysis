@@ -60,13 +60,6 @@ Open `docs/test_installation.ipynb` and run the cell. If it prints **"Everything
 
 Download and install R from https://cran.r-project.org ("Download R for Windows" → "base"), then install [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
 
-To also use R inside Jupyter, open R and run:
-
-```
-install.packages("IRkernel")
-IRkernel::installspec()
-```
-
 ---
 
 # macOS
@@ -127,19 +120,12 @@ Open `docs/test_installation.ipynb` and run the cell. If it prints **"Everything
 
 Download and install R from https://cran.r-project.org ("Download R for macOS"), then install [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
 
-To also use R inside Jupyter, open R and run:
-
-```
-install.packages("IRkernel")
-IRkernel::installspec()
-```
-
 ---
 
 # Alternatives
 
 - **Google Colab** (no installation): Go to https://colab.research.google.com → File → Open Notebook → GitHub tab → paste `https://github.com/cgenomicslab/imbb-data-analysis`
-- **Course [JupyterHub](https://jupyter.cgenomicslab.org/)**: Access details will be shared before the course — everything is pre-installed
+- **Course JupyterHub**: Access details will be shared before the course — everything is pre-installed
 - **VSCode**: Install [VSCode](https://code.visualstudio.com) with the Python and Jupyter extensions if you prefer a code editor over Jupyter in the browser
 
 ---
