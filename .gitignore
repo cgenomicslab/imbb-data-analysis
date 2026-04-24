@@ -24,9 +24,14 @@ jupyter_setup/
 .vscode/
 .idea/
 
+# SETUP alternatives
+.docs/SETUP_*
+
 # Jupyter
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
 # Data (uncomment if datasets become too large for GitHub)
 # data/*.csv
+docs/SETUP_maria.md
+docs/SETUP_maria_minimal.md
