@@ -65,7 +65,7 @@ Week 2 links will be added here as they become available.
 
 ---
 
-## 📡 Remote (Zoom)
+## 🪐 Remote (Zoom)
 
 Links are the same **every day** for **each week**.
 
