@@ -153,11 +153,11 @@ You can also [install](https://code.visualstudio.com/download) and open notebook
 
 # Alternatives
 
-- **Google Colab** (no installation): Go to https://colab.research.google.com —> File —> Open Notebook —> GitHub tab —> paste `https://github.com/cgenomicslab/imbb-data-analysis`
 - **Course [JupyterHub](https://jupyter.cgenomicslab.org/)**: Access details will be shared before the course — everything is pre-installed
+- **Google Colab** (no installation): Go to https://colab.research.google.com —> File —> Open Notebook —> GitHub tab —> paste `https://github.com/cgenomicslab/imbb-data-analysis`
 
 ---
 
 ## Problems?
 
-Email the course coordinator with a screenshot of the error. Or just use Google Colab for Day 1 — we'll sort it out during the break.
+Email the course coordinator with a screenshot of the error. Or just use [JupyterHub](https://jupyter.cgenomicslab.org/) for Day 1 — we'll sort it out during day1..
