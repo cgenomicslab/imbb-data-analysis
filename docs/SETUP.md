@@ -59,7 +59,7 @@ Open `docs/test_installation.ipynb` and run the cell. If it prints **"Everything
 
 ## 5. R (Week 2)
 
-Download and install R from https://cran.r-project.org ("Download R for Windows" → "base"), then install [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
+Download and install R from https://cran.r-project.org ("Download R for Windows" —> "base"), then install [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
 
 To also use R inside Jupyter, open R and run:
 
@@ -67,6 +67,10 @@ To also use R inside Jupyter, open R and run:
 install.packages("IRkernel")
 IRkernel::installspec()
 ```
+
+## Visual Studio Code (VS Code)
+
+You can also [install](https://code.visualstudio.com/download) and open notebooks in VSCode (with the Python and Jupyter extensions installed, easy) instead of the browser. Up to you though, the current setup works either way.
 
 ---
 
@@ -135,13 +139,16 @@ install.packages("IRkernel")
 IRkernel::installspec()
 ```
 
+## Visual Studio Code (VS Code)
+
+You can also [install](https://code.visualstudio.com/download) and open notebooks in VSCode (with the Python and Jupyter extensions installed, easy) instead of the browser. Up to you though, the current setup works either way.
+
 ---
 
 # Alternatives
 
 - **Google Colab** (no installation): Go to https://colab.research.google.com —> File —> Open Notebook —> GitHub tab —> paste `https://github.com/cgenomicslab/imbb-data-analysis`
 - **Course [JupyterHub](https://jupyter.cgenomicslab.org/)**: Access details will be shared before the course — everything is pre-installed
-- **VSCode**: Install [VSCode](https://code.visualstudio.com) with the Python and Jupyter extensions if you prefer a code editor over Jupyter in the browser
 
 ---
 
