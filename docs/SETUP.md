@@ -25,11 +25,11 @@ python --version
 - Go to https://github.com/cgenomicslab/imbb-data-analysis
 - Click the green **Code** button —> **Download ZIP**
 - Extract the folder into your Documents
-- Open the **imbb-data-analysis** folder in File Explorer, click the address bar, type `cmd`, and press Enter — this opens Command Prompt in that folder
+- Open the **imbb-data-analysis-main** folder in File Explorer, click the address bar, type `cmd`, and press Enter — this opens Command Prompt in that folder
 
 ## 3. Set up the environment
 
-Run these commands one at a time inside the **imbb-data-analysis** folder:
+Run these commands (copy-paste) one at a time inside the **imbb-data-analysis-main** folder:
 
 ```
 python -m venv imbb
@@ -106,7 +106,7 @@ cd ~/Documents/imbb-data-analysis-main
 
 ## 3. Set up the environment
 
-Run these commands one at a time inside the **imbb-data-analysis** folder:
+Run these commands (copy-paste) one at a time inside the **imbb-data-analysis-main** folder:
 
 ```
 python3 -m venv imbb
