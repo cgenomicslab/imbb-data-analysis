@@ -119,7 +119,7 @@ All materials are in this repository:
 
 ## 💻 Technical Setup
 
-**Recommended:** Miniconda + VSCode (see [docs/SETUP.md](docs/SETUP.md))
+**Recommended:** Python + Jupyter (VSCode optional) (see [docs/SETUP.md](docs/SETUP.md))
 
 **Python packages (Week 1):** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap-learn
 
