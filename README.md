@@ -56,12 +56,26 @@ This is an introductory boost — not a comprehensive training program. The goal
 
 | Date | Room | Coordination | Topic | Material |
 |------|------|---------------------|-------|----------|
-| **Mon 4/5** — Day 5 | Pagiatakis | [Christos Andronis](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/&tabid=147&mid=Christos-Andronis.415) / Electra Tsaglioti ([Bioinformatics Unit](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/)) | Bulk RNA-seq analysis | [link](https://github.com/chandron/IMBB-rnaseq-workshop-1day) |
-| **Tue 5/5** — Day 6 | TBD | Vaso Theodorou / Ethan Baird ([Delidakis lab](https://www.imbb.forth.gr/en/research/Christos-Delidakis.58/)) | Single-cell RNA-seq analysis | link |
+| **Mon 4/5** — Day 5 | Pagiatakis | [Christos Andronis](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/&tabid=147&mid=Christos-Andronis.415) / [Electra Tsaglioti](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/&tabid=147&mid=Electra-Tsaglioti.437) ([Bioinformatics Unit](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/)) | Bulk RNA-seq analysis | [link](https://github.com/chandron/IMBB-rnaseq-workshop-1day) |
+| **Tue 5/5** — Day 6 | TBD | [Ethan Baird](https://www.imbb.forth.gr/en/research/member-Ethan-Baird.419/&uid=58&tab=39) / [Vaso Theodorou](https://www.imbb.forth.gr/en/research/member-Vasiliki-Theodorou.126/&uid=58&tab=39) ([Delidakis lab](https://www.imbb.forth.gr/en/research/Christos-Delidakis.58/)) | Single-cell RNA-seq analysis | link |
 | **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis ([Talianidis lab](https://www.imbb.forth.gr/en/research/Iannis-Talianidis.75/)) | ATAC-seq | link |
 | **Thu 7/5** — Day 8 | Pagiatakis | Instructors | Bring your data |  |
 
-Materials for Week 2 will be provided by each contributing group. Links will be added here as they become available.
+Week 2 links will be added here as they become available.
+
+---
+
+## 📡 Remote (Zoom)
+
+Links are the same **every day** for **each week**.
+
+**Week 1** (Apr 27–30, 10:00 Athens)
+[Join Meeting](https://us02web.zoom.us/j/85015061426?pwd=ST14pLRGibsESE3SPJKi1N3CyKcyJI.1) · Meeting ID: `850 1506 1426` · Passcode: `320451`
+[📅 Add to calendar (.ics)](https://us02web.zoom.us/meeting/tZEtduyoqDouGNK3fxYsDTqEUbz2z0GfSWIA/ics?icsToken=DIc4V7PDRGzrFL_rJAAALAAAACD3hTIxrQHZ_MP4p0Lof6f0XtX4O-D4nuar6YXTkDupn0ZvQnMTKqqna6soFqNCmoBY9wFe8hpjeMqCxjAwMDAwMQ&meetingMasterEventId=T-8uxC54T6SH_5P6jUf40w)
+
+**Week 2** (May 4–8, 10:00 Athens)
+[Join Meeting](https://us02web.zoom.us/j/82415393379?pwd=YjR4oNZ4FuWI63UGpeIjPWGRFlmPAu.1) · Meeting ID: `824 1539 3379` · Passcode: `038331`
+[📅 Add to calendar (.ics)](https://us02web.zoom.us/meeting/tZYpduyrpzgpHd18t_5hJb_lVTKr8f-wdlDH/ics?icsToken=DG8A_w3qnSg2jhClOgAALAAAAIGeO37ibTvg0eTHMBWIdKq9g5EcSHZ0VGEsqNgjnQI5ifCDnXQjhJ4-p3pnDRA9_T-nFlV4DC8idUHqVDAwMDAwMQ&meetingMasterEventId=V8WBRqB6RMmkZJpZRtLQYw)
 
 ---
 
