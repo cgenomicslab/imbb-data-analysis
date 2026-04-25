@@ -1,4 +1,4 @@
-# Setup Guide — IMBB Data Analysis Course
+# Setup Guide — IMBB Data Analysis workshop
 
 Complete steps 1–4 before Day 1. Step 5 (R) is for Week 2 — you can do it later.
 
