@@ -172,4 +172,4 @@ All materials are in this repository:
 
 ## 📝 Feedback
 
-This is a living course that will improve with your input. After each session, we **welcome feedback on pace, clarity, and content**.
+This course will improve with your input. After each session, we **welcome feedback on pace, clarity, and content**.
