@@ -74,7 +74,7 @@ Links are the same **every day** for **each week**.
 · Meeting ID: `850 1506 1426`  
 · Passcode: `320451`
 
-**Week 2** (May 4–8, 10:00 Athens)
+**Week 2** (May 4–7, 10:00 Athens)
 [Join Meeting](https://us02web.zoom.us/j/82415393379?pwd=YjR4oNZ4FuWI63UGpeIjPWGRFlmPAu.1)  
 · Meeting ID: `824 1539 3379`  
 · Passcode: `038331`
