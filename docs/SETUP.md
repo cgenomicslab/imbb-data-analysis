@@ -50,7 +50,7 @@ python -m ipykernel install --user --name=imbb --display-name "Python (imbb)"
 ## 4. Test
 
 ```
-jupyter notebook
+jupyter lab
 ```
 
 Open `docs/test_installation.ipynb` and run the cell. If it prints **"Everything works!"** — you're ready.
@@ -129,7 +129,7 @@ python -m ipykernel install --user --name=imbb --display-name "Python (imbb)"
 ## 4. Test
 
 ```
-jupyter notebook
+jupyter lab
 ```
 
 Open `docs/test_installation.ipynb` and run the cell. If it prints **"Everything works!"** — you're ready.
