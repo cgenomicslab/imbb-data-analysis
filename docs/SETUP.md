@@ -11,7 +11,7 @@ Complete steps 1–4 before Day 1. Step 5 (R) is for Week 2 — you can do it la
 Download and run the installer from: https://www.python.org/downloads/release/python-3119/
 
 
-- ✅ Check **"Add Python to PATH"**
+- ✓ Check **"Add Python to PATH"**
 - Click **Install Now**
 
 Verify in Command Prompt (`Win+R` —> type `cmd` —> Enter):
