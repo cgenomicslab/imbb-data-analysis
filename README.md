@@ -123,7 +123,7 @@ All materials are in this repository:
 
 **Python packages (Week 1):** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, umap-learn
 
-**R (Week 2):** Some Week 2 sessions use R. Install [R](https://cran.r-project.org) and [RStudio Desktop](https://posit.co/download/rstudio-desktop/) — see [docs/SETUP.md](docs/SETUP.md) Step 5 for details. Alternatively, you can add R to your conda environment to run R notebooks in Jupyter/VSCode.
+**R (Week 2):** Some Week 2 sessions use R. Install [R](https://cran.r-project.org) and [RStudio Desktop](https://posit.co/download/rstudio-desktop/) — see [docs/SETUP.md](docs/SETUP.md) Step 5 for details. 
 
 **Alternatives:** Google Colab (browser-based, no installation) or IMBB JupyterHub (access provided during course, Python and R pre-installed).
 
