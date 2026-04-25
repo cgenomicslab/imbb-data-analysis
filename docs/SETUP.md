@@ -68,6 +68,8 @@ install.packages("IRkernel")
 IRkernel::installspec()
 ```
 
+More detailed instructions can be found in [day5 setup guide](https://github.com/chandron/IMBB-rnaseq-workshop-1day/tree/main).
+
 ## Visual Studio Code (VS Code)
 
 You can also [install](https://code.visualstudio.com/download) and open notebooks in VSCode (with the Python and Jupyter extensions installed, easy) instead of the browser. Up to you though, the current setup works either way.
@@ -144,6 +146,8 @@ To also use R inside Jupyter, open R and run:
 install.packages("IRkernel")
 IRkernel::installspec()
 ```
+
+More detailed instructions can be found in [day5 setup guide](https://github.com/chandron/IMBB-rnaseq-workshop-1day/tree/main).
 
 ## Visual Studio Code (VS Code)
 
