@@ -70,12 +70,14 @@ Week 2 links will be added here as they become available.
 Links are the same **every day** for **each week**.
 
 **Week 1** (Apr 27–30, 10:00 Athens)
-[Join Meeting](https://us02web.zoom.us/j/85015061426?pwd=ST14pLRGibsESE3SPJKi1N3CyKcyJI.1) · Meeting ID: `850 1506 1426` · Passcode: `320451`
-[📅 Add to calendar (.ics)](https://us02web.zoom.us/meeting/tZEtduyoqDouGNK3fxYsDTqEUbz2z0GfSWIA/ics?icsToken=DIc4V7PDRGzrFL_rJAAALAAAACD3hTIxrQHZ_MP4p0Lof6f0XtX4O-D4nuar6YXTkDupn0ZvQnMTKqqna6soFqNCmoBY9wFe8hpjeMqCxjAwMDAwMQ&meetingMasterEventId=T-8uxC54T6SH_5P6jUf40w)
+[Join Meeting](https://us02web.zoom.us/j/85015061426?pwd=ST14pLRGibsESE3SPJKi1N3CyKcyJI.1)  
+· Meeting ID: `850 1506 1426`  
+· Passcode: `320451`
 
 **Week 2** (May 4–8, 10:00 Athens)
-[Join Meeting](https://us02web.zoom.us/j/82415393379?pwd=YjR4oNZ4FuWI63UGpeIjPWGRFlmPAu.1) · Meeting ID: `824 1539 3379` · Passcode: `038331`
-[📅 Add to calendar (.ics)](https://us02web.zoom.us/meeting/tZYpduyrpzgpHd18t_5hJb_lVTKr8f-wdlDH/ics?icsToken=DG8A_w3qnSg2jhClOgAALAAAAIGeO37ibTvg0eTHMBWIdKq9g5EcSHZ0VGEsqNgjnQI5ifCDnXQjhJ4-p3pnDRA9_T-nFlV4DC8idUHqVDAwMDAwMQ&meetingMasterEventId=V8WBRqB6RMmkZJpZRtLQYw)
+[Join Meeting](https://us02web.zoom.us/j/82415393379?pwd=YjR4oNZ4FuWI63UGpeIjPWGRFlmPAu.1)  
+· Meeting ID: `824 1539 3379`  
+· Passcode: `038331`
 
 ---
 
