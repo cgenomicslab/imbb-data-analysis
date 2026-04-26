@@ -134,7 +134,7 @@ jupyter lab
 
 Open `docs/test_installation.ipynb` and run the cell. If it prints **"Everything works!"** — you're ready.
 
-**Note:** Every time you reopen Terminal, activate the environment first: `source imbb/bin/activate`
+**Note:** Every time you reopen Terminal, go to the directory first `cd ~/Documents/imbb-data-analysis-main`, and activate the environment: `source imbb/bin/activate`
 
 ## 5. R (Week 2)
 
