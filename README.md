@@ -81,7 +81,7 @@ Links are the same **every day** for **each week**.
 
 ---
 
-## 🙌 Instructors
+## 🙌 Teaching Instructors
 
 - [Maria Diamantaki](https://eflab.org/people/) — Froudarakis lab
 - [Yiannis Pyrris](https://cgenomicslab.org/members/pyrris/) — CGLab
@@ -95,6 +95,7 @@ Links are the same **every day** for **each week**.
 - [Dimitris Papageorgiou](https://www.imbb.forth.gr/en/research/member-Dimitrios-Papageorgiou.332/&uid=61&tab=115) — Pavlopoulos lab
 - Ioannis Giannoulakis - Talianidis lab
 - Despoina Georgiadou - Bioinformatics MSc programme
+- Panagiota Meramveliotaki - Bioinformatics MSc programme
 
 ---
 
