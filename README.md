@@ -61,8 +61,6 @@ This is an introductory boost — not a comprehensive training program. The goal
 | **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis ([Talianidis lab](https://www.imbb.forth.gr/en/research/Iannis-Talianidis.75/)) | ATAC-seq | [link](https://github.com/Orsalia/IMBB_ATAC_Seq_tutorial) |
 | **Thu 7/5** — Day 8 | Pagiatakis | Instructors | Bring your data |  |
 
-Week 2 links will be added here as they become available.
-
 ---
 
 ## 🪐 Remote (Zoom)
