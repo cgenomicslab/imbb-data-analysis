@@ -58,7 +58,7 @@ This is an introductory boost — not a comprehensive training program. The goal
 |------|------|---------------------|-------|----------|
 | **Mon 4/5** — Day 5 | Pagiatakis | [Christos Andronis](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/&tabid=147&mid=Christos-Andronis.415) / [Electra Tsaglioti](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/&tabid=147&mid=Electra-Tsaglioti.437) ([Bioinformatics Unit](https://www.imbb.forth.gr/en/facilities/Bioinformatics-Unit.15/)) | Bulk RNA-seq analysis | [link](https://github.com/chandron/IMBB-rnaseq-workshop-1day) |
 | **Tue 5/5** — Day 6 | Pagiatakis | [Ethan Baird](https://www.imbb.forth.gr/en/research/member-Ethan-Baird.419/&uid=58&tab=39) / [Vaso Theodorou](https://www.imbb.forth.gr/en/research/member-Vasiliki-Theodorou.126/&uid=58&tab=39) ([Delidakis lab](https://www.imbb.forth.gr/en/research/Christos-Delidakis.58/)) | Single-cell RNA-seq analysis | [link](week2/day6_scRNAseq_course.ipynb) |
-| **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis ([Talianidis lab](https://www.imbb.forth.gr/en/research/Iannis-Talianidis.75/)) | ATAC-seq | link |
+| **Wed 6/5** — Day 7 | Pagiatakis | Orsalia Hazapis ([Talianidis lab](https://www.imbb.forth.gr/en/research/Iannis-Talianidis.75/)) | ATAC-seq | [link](https://github.com/Orsalia/IMBB_ATAC_Seq_tutorial) |
 | **Thu 7/5** — Day 8 | Pagiatakis | Instructors | Bring your data |  |
 
 Week 2 links will be added here as they become available.
